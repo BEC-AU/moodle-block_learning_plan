@@ -1,0 +1,27 @@
+[26-Oct-2020 03:49:40 Australia/Sydney] Default exception handler: error/Unable to find forum with cmid 13 Debug: 
+Error code: Unable to find forum with cmid 13
+$a contents: 
+* line 54 of /mod/forum/view.php: moodle_exception thrown
+
+[29-Oct-2020 16:53:38 Australia/Sydney] Default exception handler: error/Unable to find forum with cmid 13 Debug: 
+Error code: Unable to find forum with cmid 13
+$a contents: 
+* line 54 of /mod/forum/view.php: moodle_exception thrown
+
+[04-Nov-2020 09:30:40 Australia/Sydney] PHP Notice:  Undefined variable: discussionid in /home/ki517166/public_html/lms.net.au/mod/forum/discuss.php on line 48
+[04-Nov-2020 09:30:40 Australia/Sydney] Default exception handler: error/Unable to find discussion with id  Debug: 
+Error code: Unable to find discussion with id 
+$a contents: 
+* line 48 of /mod/forum/discuss.php: moodle_exception thrown
+
+[04-Nov-2020 20:24:49 Australia/Sydney] PHP Notice:  Undefined variable: discussionid in /home/ki517166/public_html/lms.net.au/mod/forum/discuss.php on line 48
+[04-Nov-2020 20:24:49 Australia/Sydney] Default exception handler: error/Unable to find discussion with id  Debug: 
+Error code: Unable to find discussion with id 
+$a contents: 
+* line 48 of /mod/forum/discuss.php: moodle_exception thrown
+
+[07-Nov-2020 15:36:16 Australia/Sydney] Default exception handler: error/Unable to find forum with cmid 13 Debug: 
+Error code: Unable to find forum with cmid 13
+$a contents: 
+* line 54 of /mod/forum/view.php: moodle_exception thrown
+

@@ -1,0 +1,141 @@
+[30-Oct-2020 14:46:42 Australia/Sydney] Default exception handler: Course or activity not accessible. Debug: You are not logged in
+Error code: requireloginerror
+* line 2715 of /lib/moodlelib.php: require_login_exception thrown
+* line 38 of /user/policy.php: call to require_login()
+
+[30-Oct-2020 14:46:44 Australia/Sydney] Default exception handler: Course or activity not accessible. Debug: You are not logged in
+Error code: requireloginerror
+* line 2715 of /lib/moodlelib.php: require_login_exception thrown
+* line 38 of /user/policy.php: call to require_login()
+
+[30-Oct-2020 14:46:45 Australia/Sydney] Default exception handler: Course or activity not accessible. Debug: You are not logged in
+Error code: requireloginerror
+* line 2715 of /lib/moodlelib.php: require_login_exception thrown
+* line 38 of /user/policy.php: call to require_login()
+
+[30-Oct-2020 14:46:46 Australia/Sydney] Default exception handler: Course or activity not accessible. Debug: You are not logged in
+Error code: requireloginerror
+* line 2715 of /lib/moodlelib.php: require_login_exception thrown
+* line 38 of /user/policy.php: call to require_login()
+
+[30-Oct-2020 14:46:47 Australia/Sydney] Default exception handler: Course or activity not accessible. Debug: You are not logged in
+Error code: requireloginerror
+* line 2715 of /lib/moodlelib.php: require_login_exception thrown
+* line 38 of /user/policy.php: call to require_login()
+
+[30-Oct-2020 14:46:48 Australia/Sydney] Default exception handler: Course or activity not accessible. Debug: You are not logged in
+Error code: requireloginerror
+* line 2715 of /lib/moodlelib.php: require_login_exception thrown
+* line 38 of /user/policy.php: call to require_login()
+
+[30-Oct-2020 14:46:48 Australia/Sydney] Default exception handler: Course or activity not accessible. Debug: You are not logged in
+Error code: requireloginerror
+* line 2715 of /lib/moodlelib.php: require_login_exception thrown
+* line 38 of /user/policy.php: call to require_login()
+
+[30-Oct-2020 14:46:48 Australia/Sydney] Default exception handler: Course or activity not accessible. Debug: You are not logged in
+Error code: requireloginerror
+* line 2715 of /lib/moodlelib.php: require_login_exception thrown
+* line 38 of /user/policy.php: call to require_login()
+
+[30-Oct-2020 14:46:48 Australia/Sydney] Default exception handler: Course or activity not accessible. Debug: You are not logged in
+Error code: requireloginerror
+* line 2715 of /lib/moodlelib.php: require_login_exception thrown
+* line 38 of /user/policy.php: call to require_login()
+
+[30-Oct-2020 14:49:18 Australia/Sydney] Default exception handler: Course or activity not accessible. Debug: You are not logged in
+Error code: requireloginerror
+* line 2715 of /lib/moodlelib.php: require_login_exception thrown
+* line 38 of /user/policy.php: call to require_login()
+
+[30-Oct-2020 14:49:19 Australia/Sydney] Default exception handler: Course or activity not accessible. Debug: You are not logged in
+Error code: requireloginerror
+* line 2715 of /lib/moodlelib.php: require_login_exception thrown
+* line 38 of /user/policy.php: call to require_login()
+
+[31-Oct-2020 22:54:20 Australia/Sydney] Default exception handler: Course or activity not accessible. Debug: You are not logged in
+Error code: requireloginerror
+* line 2715 of /lib/moodlelib.php: require_login_exception thrown
+* line 38 of /user/policy.php: call to require_login()
+
+[13-Nov-2020 23:34:24 Australia/Sydney] Default exception handler: Can't find data record in database table course. Debug: SELECT * FROM {course} WHERE id = ?
+[array (
+  0 => 0,
+)]
+Error code: invalidrecord
+* line 1599 of /lib/dml/moodle_database.php: dml_missing_record_exception thrown
+* line 1575 of /lib/dml/moodle_database.php: call to moodle_database->get_record_select()
+* line 62 of /user/index.php: call to moodle_database->get_record()
+
+[10-Dec-2020 13:03:17 Australia/Sydney] Default exception handler: Can't find data record in database table course. Debug: SELECT * FROM {course} WHERE id = ?
+[array (
+  0 => 0,
+)]
+Error code: invalidrecord
+* line 1599 of /lib/dml/moodle_database.php: dml_missing_record_exception thrown
+* line 1575 of /lib/dml/moodle_database.php: call to moodle_database->get_record_select()
+* line 62 of /user/index.php: call to moodle_database->get_record()
+
+[16-Dec-2020 23:15:55 Australia/Sydney] Default exception handler: Can't find data record in database table course. Debug: SELECT * FROM {course} WHERE id = ?
+[array (
+  0 => 0,
+)]
+Error code: invalidrecord
+* line 1599 of /lib/dml/moodle_database.php: dml_missing_record_exception thrown
+* line 1575 of /lib/dml/moodle_database.php: call to moodle_database->get_record_select()
+* line 62 of /user/index.php: call to moodle_database->get_record()
+
+[30-Dec-2020 20:46:09 Australia/Sydney] Default exception handler: Error reading from database Debug: COLLATION 'utf8mb4_bin' is not valid for CHARACTER SET 'utf8'
+SELECT 'x' FROM lms_user WHERE LOWER(email) COLLATE utf8mb4_bin = LOWER(?) AND mnethostid = ? AND id <> ? LIMIT 0, 1
+[array (
+  0 => 'manager1@demo.lms.net.au',
+  1 => '1',
+  2 => 9,
+)]
+Error code: dmlreadexception
+* line 486 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 1212 of /lib/dml/mysqli_native_moodle_database.php: call to moodle_database->query_end()
+* line 1955 of /lib/dml/moodle_database.php: call to mysqli_native_moodle_database->get_recordset_sql()
+* line 1940 of /lib/dml/moodle_database.php: call to moodle_database->record_exists_sql()
+* line 310 of /user/editadvanced_form.php: call to moodle_database->record_exists_select()
+* line 615 of /lib/formslib.php: call to user_editadvanced_form->validation()
+* line 551 of /lib/formslib.php: call to moodleform->validate_defined_fields()
+* line 661 of /lib/formslib.php: call to moodleform->is_validated()
+* line 171 of /user/editadvanced.php: call to moodleform->get_data()
+
+[30-Dec-2020 20:47:55 Australia/Sydney] Default exception handler: Error reading from database Debug: COLLATION 'utf8mb4_bin' is not valid for CHARACTER SET 'utf8'
+SELECT 'x' FROM lms_user WHERE LOWER(email) COLLATE utf8mb4_bin = LOWER(?) AND mnethostid = ? AND id <> ? LIMIT 0, 1
+[array (
+  0 => 'manager1@demo.lms.net.au',
+  1 => '1',
+  2 => 9,
+)]
+Error code: dmlreadexception
+* line 486 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 1212 of /lib/dml/mysqli_native_moodle_database.php: call to moodle_database->query_end()
+* line 1955 of /lib/dml/moodle_database.php: call to mysqli_native_moodle_database->get_recordset_sql()
+* line 1940 of /lib/dml/moodle_database.php: call to moodle_database->record_exists_sql()
+* line 310 of /user/editadvanced_form.php: call to moodle_database->record_exists_select()
+* line 615 of /lib/formslib.php: call to user_editadvanced_form->validation()
+* line 551 of /lib/formslib.php: call to moodleform->validate_defined_fields()
+* line 661 of /lib/formslib.php: call to moodleform->is_validated()
+* line 171 of /user/editadvanced.php: call to moodleform->get_data()
+
+[30-Dec-2020 20:54:46 Australia/Sydney] Default exception handler: Error reading from database Debug: COLLATION 'utf8mb4_bin' is not valid for CHARACTER SET 'utf8'
+SELECT 'x' FROM lms_user WHERE LOWER(email) COLLATE utf8mb4_bin = LOWER(?) AND mnethostid = ? AND id <> ? LIMIT 0, 1
+[array (
+  0 => 'manager1@demo.lms.net.au',
+  1 => '1',
+  2 => 9,
+)]
+Error code: dmlreadexception
+* line 486 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 1212 of /lib/dml/mysqli_native_moodle_database.php: call to moodle_database->query_end()
+* line 1955 of /lib/dml/moodle_database.php: call to mysqli_native_moodle_database->get_recordset_sql()
+* line 1940 of /lib/dml/moodle_database.php: call to moodle_database->record_exists_sql()
+* line 310 of /user/editadvanced_form.php: call to moodle_database->record_exists_select()
+* line 615 of /lib/formslib.php: call to user_editadvanced_form->validation()
+* line 551 of /lib/formslib.php: call to moodleform->validate_defined_fields()
+* line 661 of /lib/formslib.php: call to moodleform->is_validated()
+* line 171 of /user/editadvanced.php: call to moodleform->get_data()
+

@@ -1,0 +1,92 @@
+[submodule "admin/tool/mfa"]
+	branch = master
+        path = admin/tool/mfa
+        url = git@github.com:BEC-AU/moodle-tool_mfa.git
+[submodule "auth/auth_emailadmin"]
+	branch = master
+        path = auth/auth_emailadmin
+        url = git@github.com:hrimhari/moodle-auth_emailadmin.git
+[submodule "blocks/completion_progress"]
+	branch = master
+        path = blocks/completion_progress
+        url = git@github.com:jonof/moodle-block_completion_progress.git
+[submodule "blocks/exaport"]
+	branch = master
+        path = blocks/exaport
+        url = git@github.com:gtn/exaport.git
+[submodule "blocks/fbcomments"]
+	branch = master
+        path = blocks/fbcomments
+        url = git@github.com:BEC-AU/moodle-block_fbcomments.git
+[submodule "blocks/learning_plan"]
+        branch = development
+        path = blocks/learning_plan
+        url = git@github.com:BEC-AU/moodle-block_learning_plan.git
+[submodule "blocks/sms"]
+        branch = master
+        path = blocks/sms
+        url = git@github.com:BEC-AU/moodle-block_sms.git
+[submodule "blocks/socialcomments"]
+        branch = master
+        path = blocks/socialcomments
+        url = git@github.com:BEC-AU/moodle-block_socialcomments.git
+[submodule "blocks/xp"]
+        branch = master
+        path = blocks/xp
+        url = git@github.com:FMCorz/moodle-block_xp.git
+[submodule "filter/filtercodes"]
+	branch = master
+        path = filter/filtercodes
+        url = git@github.com:michael-milette/moodle-filter_filtercodes.git
+[submodule "filter/multilang2"]
+	branch = master
+        path = filter/multilang2
+        url = git@github.com:iarenaza/moodle-filter_multilang2.git
+[submodule "filter/poodll"]
+        branch = poodll3
+        path = filter/poodll
+        url = git@github.com:justinhunt/moodle-filter_poodll.git
+[submodule "lib/editor/atto/plugins/multilang2"]
+        branch = MOODLE_38_STABLE
+        path = lib/editor/atto/plugins/multilang2
+        url = git@github.com:KepaUrzelai/moodle-atto_multilang2.git
+[submodule "lib/editor/atto/plugins/teamsmeeting"]
+	branch = master
+	path = lib/editor/atto/plugins/teamsmeeting
+	url = git@github.com:enovation/moodle-atto_teamsmeeting.git
+[submodule "local/codechecker"]
+	branch = master
+	path = local/codechecker
+	url = git@github.com:moodlehq/moodle-local_codechecker.git
+[submodule "local/contact"]
+	branch = master
+	path = local/contact
+	url = git@github.com:michael-milette/moodle-local_contact.git
+[submodule "local/static"]
+	branch = master
+	path = local/static
+	url = git@github.com:moodleuulm/moodle-local_staticpage.git
+[submodule "mod/zoom"]
+        branch = master
+        path = mod/zoom
+        url = git@github.com:ucla/moodle-mod_zoom.git
+[submodule "mod/attendance"]
+	branch = main
+	path = mod/attendance
+	url = git@github.com:danmarsden/moodle-mod_attendance.git
+[submodule "mod/customcert"]
+        branch = MOODLE_38_STABLE
+        path = mod/customcert
+        url = git@github.com:mdjnelson/moodle-mod_customcert.git
+[submodule "plagiarism/turnitin"]
+	branch = master
+        path = plagiarism/turnitin
+        url = git@github.com:turnitin/moodle-plagiarism_turnitin.git
+[submodule "question/type/poodllrecording"]
+        branch = poodll3
+        path = question/type/poodllrecording
+        url = git@github.com:justinhunt/moodle-qtype_poodllrecording.git
+[submodule "theme/klassroom"]
+	branch = main
+	path = theme/klassroom
+	url = git@github.com:BEC-AU/klassroom.git

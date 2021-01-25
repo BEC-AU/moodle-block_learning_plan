@@ -1,0 +1,1111 @@
+[09-Nov-2020 18:17:09 Australia/Sydney] instantiating restore controller bac84050668ac5d9e9cceb173b87f350
+[09-Nov-2020 18:17:09 Australia/Sydney] setting controller status to 100
+[09-Nov-2020 18:17:09 Australia/Sydney] loading backup info
+[09-Nov-2020 18:17:09 Australia/Sydney] loading controller plan
+[09-Nov-2020 18:17:09 Australia/Sydney] setting controller status to 300
+[09-Nov-2020 18:17:09 Australia/Sydney] applying restore defaults
+[09-Nov-2020 18:17:09 Australia/Sydney] Unknown setting: questionbank
+[09-Nov-2020 18:17:09 Australia/Sydney] setting controller status to 400
+[09-Nov-2020 18:17:09 Australia/Sydney] checking plan security
+[09-Nov-2020 18:17:09 Australia/Sydney] setting controller status to 500
+[09-Nov-2020 18:17:09 Australia/Sydney] checking plan security
+[09-Nov-2020 18:17:09 Australia/Sydney] checking plan security
+[09-Nov-2020 18:17:09 Australia/Sydney] checking plan security
+[09-Nov-2020 18:17:09 Australia/Sydney] saving controller to db
+[09-Nov-2020 18:17:09 Australia/Sydney] calculating controller checksum 3a12763b492b8ef55dc6d035fab42ff0
+[09-Nov-2020 18:17:58 Australia/Sydney] loading controller from db
+[09-Nov-2020 18:17:58 Australia/Sydney] checking plan security
+[09-Nov-2020 18:17:58 Australia/Sydney] checking plan security
+[09-Nov-2020 18:17:58 Australia/Sydney] checking plan security
+[09-Nov-2020 18:17:58 Australia/Sydney] saving controller to db
+[09-Nov-2020 18:17:58 Australia/Sydney] calculating controller checksum 3a12763b492b8ef55dc6d035fab42ff0
+[09-Nov-2020 18:18:23 Australia/Sydney] loading controller from db
+[09-Nov-2020 18:18:23 Australia/Sydney] checking plan security
+[09-Nov-2020 18:18:23 Australia/Sydney] checking plan security
+[09-Nov-2020 18:18:23 Australia/Sydney] checking plan security
+[09-Nov-2020 18:18:23 Australia/Sydney] saving controller to db
+[09-Nov-2020 18:18:23 Australia/Sydney] calculating controller checksum 2cde96018e8cf466397f19d2508c2c30
+[09-Nov-2020 18:18:56 Australia/Sydney] loading controller from db
+[09-Nov-2020 18:18:56 Australia/Sydney] checking plan security
+[09-Nov-2020 18:18:56 Australia/Sydney] checking plan security
+[09-Nov-2020 18:18:56 Australia/Sydney] setting controller status to 600
+[09-Nov-2020 18:18:56 Australia/Sydney] saving controller to db
+[09-Nov-2020 18:18:56 Australia/Sydney] calculating controller checksum 7433634591f4434972854c09d6e90b56
+[09-Nov-2020 18:18:56 Australia/Sydney] loading controller from db
+[09-Nov-2020 18:18:56 Australia/Sydney] setting controller status to 700
+[09-Nov-2020 18:18:56 Australia/Sydney] saving controller to db
+[09-Nov-2020 18:18:56 Australia/Sydney] calculating controller checksum 33ff6945b396d9141eff7d13502041b3
+[09-Nov-2020 18:18:56 Australia/Sydney] loading controller from db
+[09-Nov-2020 18:18:56 Australia/Sydney] setting controller status to 800
+[09-Nov-2020 18:18:56 Australia/Sydney] saving controller to db
+[09-Nov-2020 18:18:56 Australia/Sydney] calculating controller checksum 5f02ba192c4818c8c0a33537831b61d1
+[09-Nov-2020 18:18:56 Australia/Sydney] loading controller from db
+[09-Nov-2020 18:18:57 Australia/Sydney] processing file aliases queue
+[09-Nov-2020 18:18:57 Australia/Sydney] setting controller status to 1000
+[09-Nov-2020 18:18:57 Australia/Sydney] saving controller to db
+[09-Nov-2020 18:21:46 Australia/Sydney] instantiating restore controller 689f25b7b68375045794b2b968f031a8
+[09-Nov-2020 18:21:46 Australia/Sydney] setting controller status to 100
+[09-Nov-2020 18:21:46 Australia/Sydney] loading backup info
+[09-Nov-2020 18:21:46 Australia/Sydney] loading controller plan
+[09-Nov-2020 18:21:46 Australia/Sydney] setting controller status to 300
+[09-Nov-2020 18:21:46 Australia/Sydney] applying restore defaults
+[09-Nov-2020 18:21:46 Australia/Sydney] Unknown setting: questionbank
+[09-Nov-2020 18:21:46 Australia/Sydney] setting controller status to 400
+[09-Nov-2020 18:21:46 Australia/Sydney] checking plan security
+[09-Nov-2020 18:21:46 Australia/Sydney] setting controller status to 500
+[09-Nov-2020 18:21:47 Australia/Sydney] checking plan security
+[09-Nov-2020 18:21:47 Australia/Sydney] checking plan security
+[09-Nov-2020 18:21:47 Australia/Sydney] checking plan security
+[09-Nov-2020 18:21:47 Australia/Sydney] saving controller to db
+[09-Nov-2020 18:21:47 Australia/Sydney] calculating controller checksum ba6952540b281e57504c69aa39f154d2
+[09-Nov-2020 18:22:04 Australia/Sydney] loading controller from db
+[09-Nov-2020 18:22:04 Australia/Sydney] checking plan security
+[09-Nov-2020 18:22:04 Australia/Sydney] checking plan security
+[09-Nov-2020 18:22:04 Australia/Sydney] checking plan security
+[09-Nov-2020 18:22:04 Australia/Sydney] saving controller to db
+[09-Nov-2020 18:22:04 Australia/Sydney] calculating controller checksum ba6952540b281e57504c69aa39f154d2
+[09-Nov-2020 18:22:11 Australia/Sydney] loading controller from db
+[09-Nov-2020 18:22:11 Australia/Sydney] checking plan security
+[09-Nov-2020 18:22:11 Australia/Sydney] checking plan security
+[09-Nov-2020 18:22:11 Australia/Sydney] checking plan security
+[09-Nov-2020 18:22:11 Australia/Sydney] saving controller to db
+[09-Nov-2020 18:22:11 Australia/Sydney] calculating controller checksum ba6952540b281e57504c69aa39f154d2
+[09-Nov-2020 18:22:27 Australia/Sydney] loading controller from db
+[09-Nov-2020 18:22:27 Australia/Sydney] checking plan security
+[09-Nov-2020 18:22:27 Australia/Sydney] checking plan security
+[09-Nov-2020 18:22:27 Australia/Sydney] setting controller status to 600
+[09-Nov-2020 18:22:27 Australia/Sydney] saving controller to db
+[09-Nov-2020 18:22:27 Australia/Sydney] calculating controller checksum 07970744e1dc3402aa8620d4f8bee2ff
+[09-Nov-2020 18:22:27 Australia/Sydney] loading controller from db
+[09-Nov-2020 18:22:27 Australia/Sydney] setting controller status to 700
+[09-Nov-2020 18:22:27 Australia/Sydney] saving controller to db
+[09-Nov-2020 18:22:27 Australia/Sydney] calculating controller checksum ec9ac343366001dd735160c24216c00b
+[09-Nov-2020 18:22:27 Australia/Sydney] loading controller from db
+[09-Nov-2020 18:22:27 Australia/Sydney] setting controller status to 800
+[09-Nov-2020 18:22:27 Australia/Sydney] saving controller to db
+[09-Nov-2020 18:22:27 Australia/Sydney] calculating controller checksum f9738f4fa1edd399cee159e13d1f7fed
+[09-Nov-2020 18:22:27 Australia/Sydney] loading controller from db
+[09-Nov-2020 18:22:27 Australia/Sydney] processing file aliases queue
+[09-Nov-2020 18:22:28 Australia/Sydney] setting controller status to 1000
+[09-Nov-2020 18:22:28 Australia/Sydney] saving controller to db
+[09-Nov-2020 18:25:44 Australia/Sydney] instantiating restore controller 1c273935671156ea94a84d2e02dd5b4a
+[09-Nov-2020 18:25:44 Australia/Sydney] setting controller status to 100
+[09-Nov-2020 18:25:44 Australia/Sydney] loading backup info
+[09-Nov-2020 18:25:44 Australia/Sydney] loading controller plan
+[09-Nov-2020 18:25:44 Australia/Sydney] setting controller status to 300
+[09-Nov-2020 18:25:44 Australia/Sydney] applying restore defaults
+[09-Nov-2020 18:25:44 Australia/Sydney] Unknown setting: questionbank
+[09-Nov-2020 18:25:44 Australia/Sydney] setting controller status to 400
+[09-Nov-2020 18:25:44 Australia/Sydney] checking plan security
+[09-Nov-2020 18:25:44 Australia/Sydney] setting controller status to 500
+[09-Nov-2020 18:25:44 Australia/Sydney] checking plan security
+[09-Nov-2020 18:25:44 Australia/Sydney] checking plan security
+[09-Nov-2020 18:25:44 Australia/Sydney] checking plan security
+[09-Nov-2020 18:25:44 Australia/Sydney] saving controller to db
+[09-Nov-2020 18:25:44 Australia/Sydney] calculating controller checksum 5cbbbdf05b1c693397fffcf518f5373f
+[09-Nov-2020 18:25:58 Australia/Sydney] loading controller from db
+[09-Nov-2020 18:25:58 Australia/Sydney] checking plan security
+[09-Nov-2020 18:25:58 Australia/Sydney] checking plan security
+[09-Nov-2020 18:25:58 Australia/Sydney] checking plan security
+[09-Nov-2020 18:25:58 Australia/Sydney] saving controller to db
+[09-Nov-2020 18:25:58 Australia/Sydney] calculating controller checksum 5cbbbdf05b1c693397fffcf518f5373f
+[09-Nov-2020 18:26:06 Australia/Sydney] loading controller from db
+[09-Nov-2020 18:26:06 Australia/Sydney] checking plan security
+[09-Nov-2020 18:26:06 Australia/Sydney] checking plan security
+[09-Nov-2020 18:26:06 Australia/Sydney] checking plan security
+[09-Nov-2020 18:26:06 Australia/Sydney] saving controller to db
+[09-Nov-2020 18:26:06 Australia/Sydney] calculating controller checksum 5cbbbdf05b1c693397fffcf518f5373f
+[09-Nov-2020 18:26:15 Australia/Sydney] loading controller from db
+[09-Nov-2020 18:26:15 Australia/Sydney] checking plan security
+[09-Nov-2020 18:26:15 Australia/Sydney] checking plan security
+[09-Nov-2020 18:26:15 Australia/Sydney] setting controller status to 600
+[09-Nov-2020 18:26:15 Australia/Sydney] saving controller to db
+[09-Nov-2020 18:26:15 Australia/Sydney] calculating controller checksum ecb292f45d7386ce7497837de8fde7f7
+[09-Nov-2020 18:26:15 Australia/Sydney] loading controller from db
+[09-Nov-2020 18:26:15 Australia/Sydney] setting controller status to 700
+[09-Nov-2020 18:26:15 Australia/Sydney] saving controller to db
+[09-Nov-2020 18:26:15 Australia/Sydney] calculating controller checksum c794f7a6a0953708a2a1eeba3fb88355
+[09-Nov-2020 18:26:15 Australia/Sydney] loading controller from db
+[09-Nov-2020 18:26:15 Australia/Sydney] setting controller status to 800
+[09-Nov-2020 18:26:15 Australia/Sydney] saving controller to db
+[09-Nov-2020 18:26:15 Australia/Sydney] calculating controller checksum c78376334aaaadc35e51e8adf14db085
+[09-Nov-2020 18:26:15 Australia/Sydney] loading controller from db
+[09-Nov-2020 18:26:16 Australia/Sydney] processing file aliases queue
+[09-Nov-2020 18:26:16 Australia/Sydney] setting controller status to 1000
+[09-Nov-2020 18:26:16 Australia/Sydney] saving controller to db
+[09-Nov-2020 18:42:38 Australia/Sydney] instantiating restore controller 24bbe203d962a548abaaf54c3b6ee264
+[09-Nov-2020 18:42:38 Australia/Sydney] setting controller status to 100
+[09-Nov-2020 18:42:38 Australia/Sydney] loading backup info
+[09-Nov-2020 18:42:38 Australia/Sydney] loading controller plan
+[09-Nov-2020 18:42:38 Australia/Sydney] setting controller status to 300
+[09-Nov-2020 18:42:38 Australia/Sydney] applying restore defaults
+[09-Nov-2020 18:42:38 Australia/Sydney] Unknown setting: questionbank
+[09-Nov-2020 18:42:38 Australia/Sydney] setting controller status to 400
+[09-Nov-2020 18:42:38 Australia/Sydney] checking plan security
+[09-Nov-2020 18:42:38 Australia/Sydney] setting controller status to 500
+[09-Nov-2020 18:42:38 Australia/Sydney] checking plan security
+[09-Nov-2020 18:42:38 Australia/Sydney] checking plan security
+[09-Nov-2020 18:42:38 Australia/Sydney] checking plan security
+[09-Nov-2020 18:42:38 Australia/Sydney] saving controller to db
+[09-Nov-2020 18:42:38 Australia/Sydney] calculating controller checksum 550960f9f15ca4c01b958808430e8850
+[09-Nov-2020 18:42:47 Australia/Sydney] loading controller from db
+[09-Nov-2020 18:42:47 Australia/Sydney] checking plan security
+[09-Nov-2020 18:42:47 Australia/Sydney] checking plan security
+[09-Nov-2020 18:42:47 Australia/Sydney] checking plan security
+[09-Nov-2020 18:42:47 Australia/Sydney] saving controller to db
+[09-Nov-2020 18:42:47 Australia/Sydney] calculating controller checksum 550960f9f15ca4c01b958808430e8850
+[09-Nov-2020 18:43:11 Australia/Sydney] loading controller from db
+[09-Nov-2020 18:43:11 Australia/Sydney] checking plan security
+[09-Nov-2020 18:43:11 Australia/Sydney] checking plan security
+[09-Nov-2020 18:43:11 Australia/Sydney] checking plan security
+[09-Nov-2020 18:43:11 Australia/Sydney] saving controller to db
+[09-Nov-2020 18:43:11 Australia/Sydney] calculating controller checksum 3d0df87d8259d0df9c375459a472f82c
+[09-Nov-2020 18:43:43 Australia/Sydney] loading controller from db
+[09-Nov-2020 18:43:43 Australia/Sydney] checking plan security
+[09-Nov-2020 18:43:43 Australia/Sydney] checking plan security
+[09-Nov-2020 18:43:43 Australia/Sydney] setting controller status to 600
+[09-Nov-2020 18:43:43 Australia/Sydney] saving controller to db
+[09-Nov-2020 18:43:43 Australia/Sydney] calculating controller checksum 6dc56d4caf2a79ee026d52477c066dd3
+[09-Nov-2020 18:43:43 Australia/Sydney] loading controller from db
+[09-Nov-2020 18:43:43 Australia/Sydney] setting controller status to 700
+[09-Nov-2020 18:43:43 Australia/Sydney] saving controller to db
+[09-Nov-2020 18:43:43 Australia/Sydney] calculating controller checksum 77f3ef2b1ce68ec7888ce6f1668ef9c3
+[09-Nov-2020 18:43:43 Australia/Sydney] loading controller from db
+[09-Nov-2020 18:43:43 Australia/Sydney] setting controller status to 800
+[09-Nov-2020 18:43:43 Australia/Sydney] saving controller to db
+[09-Nov-2020 18:43:43 Australia/Sydney] calculating controller checksum 52bd38988f58f9bd011a7eff8cde01b7
+[09-Nov-2020 18:43:43 Australia/Sydney] loading controller from db
+[09-Nov-2020 18:43:44 Australia/Sydney] processing file aliases queue
+[09-Nov-2020 18:43:44 Australia/Sydney] setting controller status to 1000
+[09-Nov-2020 18:43:44 Australia/Sydney] saving controller to db
+[09-Nov-2020 18:45:21 Australia/Sydney] instantiating restore controller 6da1791b0917b6d0020230196941c271
+[09-Nov-2020 18:45:21 Australia/Sydney] setting controller status to 100
+[09-Nov-2020 18:45:21 Australia/Sydney] loading backup info
+[09-Nov-2020 18:45:21 Australia/Sydney] loading controller plan
+[09-Nov-2020 18:45:21 Australia/Sydney] setting controller status to 300
+[09-Nov-2020 18:45:21 Australia/Sydney] applying restore defaults
+[09-Nov-2020 18:45:21 Australia/Sydney] Unknown setting: questionbank
+[09-Nov-2020 18:45:21 Australia/Sydney] setting controller status to 400
+[09-Nov-2020 18:45:21 Australia/Sydney] checking plan security
+[09-Nov-2020 18:45:21 Australia/Sydney] setting controller status to 500
+[09-Nov-2020 18:45:21 Australia/Sydney] checking plan security
+[09-Nov-2020 18:45:21 Australia/Sydney] checking plan security
+[09-Nov-2020 18:45:21 Australia/Sydney] checking plan security
+[09-Nov-2020 18:45:21 Australia/Sydney] saving controller to db
+[09-Nov-2020 18:45:21 Australia/Sydney] calculating controller checksum 7f6982a21d0afe53ddb8d79e443dc090
+[09-Nov-2020 19:26:06 Australia/Sydney] loading controller from db
+[09-Nov-2020 19:26:06 Australia/Sydney] checking plan security
+[09-Nov-2020 19:26:06 Australia/Sydney] checking plan security
+[09-Nov-2020 19:26:06 Australia/Sydney] checking plan security
+[09-Nov-2020 19:26:06 Australia/Sydney] saving controller to db
+[09-Nov-2020 19:26:06 Australia/Sydney] calculating controller checksum 7f6982a21d0afe53ddb8d79e443dc090
+[09-Nov-2020 19:26:26 Australia/Sydney] loading controller from db
+[09-Nov-2020 19:26:26 Australia/Sydney] checking plan security
+[09-Nov-2020 19:26:26 Australia/Sydney] checking plan security
+[09-Nov-2020 19:26:26 Australia/Sydney] checking plan security
+[09-Nov-2020 19:26:26 Australia/Sydney] saving controller to db
+[09-Nov-2020 19:26:26 Australia/Sydney] calculating controller checksum 9a6380104ea8523cfa3e11e5c2f83012
+[09-Nov-2020 19:26:37 Australia/Sydney] loading controller from db
+[09-Nov-2020 19:26:37 Australia/Sydney] checking plan security
+[09-Nov-2020 19:26:37 Australia/Sydney] checking plan security
+[09-Nov-2020 19:26:37 Australia/Sydney] setting controller status to 600
+[09-Nov-2020 19:26:37 Australia/Sydney] saving controller to db
+[09-Nov-2020 19:26:37 Australia/Sydney] calculating controller checksum f1fd830eca48debdcf67bdb998604f94
+[09-Nov-2020 19:26:37 Australia/Sydney] loading controller from db
+[09-Nov-2020 19:26:37 Australia/Sydney] setting controller status to 700
+[09-Nov-2020 19:26:37 Australia/Sydney] saving controller to db
+[09-Nov-2020 19:26:37 Australia/Sydney] calculating controller checksum 8122f07fdc1c461fcf6dfe691279bcf8
+[09-Nov-2020 19:26:37 Australia/Sydney] loading controller from db
+[09-Nov-2020 19:26:37 Australia/Sydney] setting controller status to 800
+[09-Nov-2020 19:26:37 Australia/Sydney] saving controller to db
+[09-Nov-2020 19:26:37 Australia/Sydney] calculating controller checksum 4a313ac03411ba01c1714e05c23177ff
+[09-Nov-2020 19:26:37 Australia/Sydney] loading controller from db
+[09-Nov-2020 19:26:37 Australia/Sydney] processing file aliases queue
+[09-Nov-2020 19:26:37 Australia/Sydney] setting controller status to 1000
+[09-Nov-2020 19:26:37 Australia/Sydney] saving controller to db
+[09-Nov-2020 19:28:07 Australia/Sydney] instantiating restore controller 67050383cd8a26432db991b36ec9ec89
+[09-Nov-2020 19:28:07 Australia/Sydney] setting controller status to 100
+[09-Nov-2020 19:28:07 Australia/Sydney] loading backup info
+[09-Nov-2020 19:28:07 Australia/Sydney] loading controller plan
+[09-Nov-2020 19:28:07 Australia/Sydney] setting controller status to 300
+[09-Nov-2020 19:28:07 Australia/Sydney] applying restore defaults
+[09-Nov-2020 19:28:07 Australia/Sydney] Unknown setting: questionbank
+[09-Nov-2020 19:28:07 Australia/Sydney] setting controller status to 400
+[09-Nov-2020 19:28:07 Australia/Sydney] checking plan security
+[09-Nov-2020 19:28:07 Australia/Sydney] setting controller status to 500
+[09-Nov-2020 19:28:07 Australia/Sydney] checking plan security
+[09-Nov-2020 19:28:07 Australia/Sydney] checking plan security
+[09-Nov-2020 19:28:07 Australia/Sydney] checking plan security
+[09-Nov-2020 19:28:07 Australia/Sydney] saving controller to db
+[09-Nov-2020 19:28:07 Australia/Sydney] calculating controller checksum 4e46434e8b9099952be72eb79b28f888
+[09-Nov-2020 19:28:13 Australia/Sydney] loading controller from db
+[09-Nov-2020 19:28:13 Australia/Sydney] checking plan security
+[09-Nov-2020 19:28:13 Australia/Sydney] checking plan security
+[09-Nov-2020 19:28:13 Australia/Sydney] checking plan security
+[09-Nov-2020 19:28:13 Australia/Sydney] saving controller to db
+[09-Nov-2020 19:28:13 Australia/Sydney] calculating controller checksum 4e46434e8b9099952be72eb79b28f888
+[09-Nov-2020 19:28:31 Australia/Sydney] loading controller from db
+[09-Nov-2020 19:28:31 Australia/Sydney] checking plan security
+[09-Nov-2020 19:28:31 Australia/Sydney] checking plan security
+[09-Nov-2020 19:28:31 Australia/Sydney] checking plan security
+[09-Nov-2020 19:28:31 Australia/Sydney] saving controller to db
+[09-Nov-2020 19:28:31 Australia/Sydney] calculating controller checksum 4e46434e8b9099952be72eb79b28f888
+[09-Nov-2020 19:28:39 Australia/Sydney] loading controller from db
+[09-Nov-2020 19:28:39 Australia/Sydney] checking plan security
+[09-Nov-2020 19:28:39 Australia/Sydney] checking plan security
+[09-Nov-2020 19:28:39 Australia/Sydney] setting controller status to 600
+[09-Nov-2020 19:28:39 Australia/Sydney] saving controller to db
+[09-Nov-2020 19:28:39 Australia/Sydney] calculating controller checksum 81f902bcc5bbbf63cd84c10d3fef87d6
+[09-Nov-2020 19:28:39 Australia/Sydney] loading controller from db
+[09-Nov-2020 19:28:39 Australia/Sydney] setting controller status to 700
+[09-Nov-2020 19:28:39 Australia/Sydney] saving controller to db
+[09-Nov-2020 19:28:39 Australia/Sydney] calculating controller checksum b3601f8b9160418c41b3844d8c4fff42
+[09-Nov-2020 19:28:39 Australia/Sydney] loading controller from db
+[09-Nov-2020 19:28:39 Australia/Sydney] setting controller status to 800
+[09-Nov-2020 19:28:39 Australia/Sydney] saving controller to db
+[09-Nov-2020 19:28:39 Australia/Sydney] calculating controller checksum dcb65d843e11a467622bd8684e69fb42
+[09-Nov-2020 19:28:39 Australia/Sydney] loading controller from db
+[09-Nov-2020 19:28:40 Australia/Sydney] processing file aliases queue
+[09-Nov-2020 19:28:40 Australia/Sydney] setting controller status to 1000
+[09-Nov-2020 19:28:40 Australia/Sydney] saving controller to db
+[09-Nov-2020 19:30:10 Australia/Sydney] instantiating restore controller c3306af13aa7dca26fe54265393a5b81
+[09-Nov-2020 19:30:10 Australia/Sydney] setting controller status to 100
+[09-Nov-2020 19:30:10 Australia/Sydney] loading backup info
+[09-Nov-2020 19:30:10 Australia/Sydney] loading controller plan
+[09-Nov-2020 19:30:10 Australia/Sydney] setting controller status to 300
+[09-Nov-2020 19:30:10 Australia/Sydney] applying restore defaults
+[09-Nov-2020 19:30:10 Australia/Sydney] Unknown setting: questionbank
+[09-Nov-2020 19:30:10 Australia/Sydney] setting controller status to 400
+[09-Nov-2020 19:30:10 Australia/Sydney] checking plan security
+[09-Nov-2020 19:30:10 Australia/Sydney] setting controller status to 500
+[09-Nov-2020 19:30:10 Australia/Sydney] checking plan security
+[09-Nov-2020 19:30:10 Australia/Sydney] checking plan security
+[09-Nov-2020 19:30:10 Australia/Sydney] checking plan security
+[09-Nov-2020 19:30:10 Australia/Sydney] saving controller to db
+[09-Nov-2020 19:30:10 Australia/Sydney] calculating controller checksum 68cac1b218a318d6582068b8b5c1fa80
+[09-Nov-2020 19:30:26 Australia/Sydney] instantiating restore controller 6b4b25bec9fec23af82a491844acf0a6
+[09-Nov-2020 19:30:26 Australia/Sydney] setting controller status to 100
+[09-Nov-2020 19:30:26 Australia/Sydney] loading backup info
+[09-Nov-2020 19:30:26 Australia/Sydney] loading controller plan
+[09-Nov-2020 19:30:26 Australia/Sydney] setting controller status to 300
+[09-Nov-2020 19:30:26 Australia/Sydney] applying restore defaults
+[09-Nov-2020 19:30:26 Australia/Sydney] Unknown setting: questionbank
+[09-Nov-2020 19:30:26 Australia/Sydney] setting controller status to 400
+[09-Nov-2020 19:30:26 Australia/Sydney] checking plan security
+[09-Nov-2020 19:30:26 Australia/Sydney] setting controller status to 500
+[09-Nov-2020 19:30:26 Australia/Sydney] checking plan security
+[09-Nov-2020 19:30:26 Australia/Sydney] checking plan security
+[09-Nov-2020 19:30:26 Australia/Sydney] checking plan security
+[09-Nov-2020 19:30:26 Australia/Sydney] saving controller to db
+[09-Nov-2020 19:30:26 Australia/Sydney] calculating controller checksum 9dfee097cc77103c04f0fe77a2cfe17a
+[09-Nov-2020 19:30:30 Australia/Sydney] loading controller from db
+[09-Nov-2020 19:30:30 Australia/Sydney] checking plan security
+[09-Nov-2020 19:30:30 Australia/Sydney] checking plan security
+[09-Nov-2020 19:30:30 Australia/Sydney] checking plan security
+[09-Nov-2020 19:30:30 Australia/Sydney] saving controller to db
+[09-Nov-2020 19:30:30 Australia/Sydney] calculating controller checksum 9dfee097cc77103c04f0fe77a2cfe17a
+[09-Nov-2020 19:30:37 Australia/Sydney] loading controller from db
+[09-Nov-2020 19:30:37 Australia/Sydney] checking plan security
+[09-Nov-2020 19:30:37 Australia/Sydney] checking plan security
+[09-Nov-2020 19:30:37 Australia/Sydney] checking plan security
+[09-Nov-2020 19:30:37 Australia/Sydney] saving controller to db
+[09-Nov-2020 19:30:37 Australia/Sydney] calculating controller checksum 9dfee097cc77103c04f0fe77a2cfe17a
+[09-Nov-2020 19:30:43 Australia/Sydney] loading controller from db
+[09-Nov-2020 19:30:43 Australia/Sydney] checking plan security
+[09-Nov-2020 19:30:43 Australia/Sydney] checking plan security
+[09-Nov-2020 19:30:43 Australia/Sydney] setting controller status to 600
+[09-Nov-2020 19:30:43 Australia/Sydney] saving controller to db
+[09-Nov-2020 19:30:43 Australia/Sydney] calculating controller checksum 803dbdbf65f3bfc1b8941bb5502c1c14
+[09-Nov-2020 19:30:43 Australia/Sydney] loading controller from db
+[09-Nov-2020 19:30:43 Australia/Sydney] setting controller status to 700
+[09-Nov-2020 19:30:43 Australia/Sydney] saving controller to db
+[09-Nov-2020 19:30:43 Australia/Sydney] calculating controller checksum 5fec93e890efb896c8eedafcd5152674
+[09-Nov-2020 19:30:43 Australia/Sydney] loading controller from db
+[09-Nov-2020 19:30:43 Australia/Sydney] setting controller status to 800
+[09-Nov-2020 19:30:43 Australia/Sydney] saving controller to db
+[09-Nov-2020 19:30:43 Australia/Sydney] calculating controller checksum c925e020f757408be6afef251c59c084
+[09-Nov-2020 19:30:43 Australia/Sydney] loading controller from db
+[09-Nov-2020 19:30:43 Australia/Sydney] processing file aliases queue
+[09-Nov-2020 19:30:43 Australia/Sydney] setting controller status to 1000
+[09-Nov-2020 19:30:43 Australia/Sydney] saving controller to db
+[09-Nov-2020 22:52:22 Australia/Sydney] instantiating restore controller bea81abb9beac3ce4b74d53cfeab0f59
+[09-Nov-2020 22:52:22 Australia/Sydney] setting controller status to 100
+[09-Nov-2020 22:52:22 Australia/Sydney] loading backup info
+[09-Nov-2020 22:52:22 Australia/Sydney] loading controller plan
+[09-Nov-2020 22:52:22 Australia/Sydney] setting controller status to 300
+[09-Nov-2020 22:52:22 Australia/Sydney] applying restore defaults
+[09-Nov-2020 22:52:22 Australia/Sydney] Unknown setting: questionbank
+[09-Nov-2020 22:52:22 Australia/Sydney] setting controller status to 400
+[09-Nov-2020 22:52:22 Australia/Sydney] checking plan security
+[09-Nov-2020 22:52:22 Australia/Sydney] setting controller status to 500
+[09-Nov-2020 22:52:22 Australia/Sydney] checking plan security
+[09-Nov-2020 22:52:22 Australia/Sydney] checking plan security
+[09-Nov-2020 22:52:22 Australia/Sydney] checking plan security
+[09-Nov-2020 22:52:22 Australia/Sydney] saving controller to db
+[09-Nov-2020 22:52:22 Australia/Sydney] calculating controller checksum 006f775c4b80f0e60680fec6b02855cb
+[09-Nov-2020 22:52:27 Australia/Sydney] loading controller from db
+[09-Nov-2020 22:52:27 Australia/Sydney] checking plan security
+[09-Nov-2020 22:52:28 Australia/Sydney] checking plan security
+[09-Nov-2020 22:52:28 Australia/Sydney] checking plan security
+[09-Nov-2020 22:52:28 Australia/Sydney] saving controller to db
+[09-Nov-2020 22:52:28 Australia/Sydney] calculating controller checksum 006f775c4b80f0e60680fec6b02855cb
+[09-Nov-2020 23:07:06 Australia/Sydney] loading controller from db
+[09-Nov-2020 23:07:06 Australia/Sydney] checking plan security
+[09-Nov-2020 23:07:06 Australia/Sydney] checking plan security
+[09-Nov-2020 23:07:06 Australia/Sydney] checking plan security
+[09-Nov-2020 23:07:06 Australia/Sydney] saving controller to db
+[09-Nov-2020 23:07:06 Australia/Sydney] calculating controller checksum 09bf1cca45f508894d9922f7f04cadcf
+[09-Nov-2020 23:07:12 Australia/Sydney] loading controller from db
+[09-Nov-2020 23:07:12 Australia/Sydney] checking plan security
+[09-Nov-2020 23:07:12 Australia/Sydney] checking plan security
+[09-Nov-2020 23:07:12 Australia/Sydney] setting controller status to 600
+[09-Nov-2020 23:07:12 Australia/Sydney] saving controller to db
+[09-Nov-2020 23:07:12 Australia/Sydney] calculating controller checksum 6ca5fe650a54af5e378fbfda0c1c8b7b
+[09-Nov-2020 23:07:12 Australia/Sydney] loading controller from db
+[09-Nov-2020 23:07:13 Australia/Sydney] setting controller status to 700
+[09-Nov-2020 23:07:13 Australia/Sydney] saving controller to db
+[09-Nov-2020 23:07:13 Australia/Sydney] calculating controller checksum 8212732029f969ef41092f32fc90d562
+[09-Nov-2020 23:07:13 Australia/Sydney] loading controller from db
+[09-Nov-2020 23:07:13 Australia/Sydney] setting controller status to 800
+[09-Nov-2020 23:07:13 Australia/Sydney] saving controller to db
+[09-Nov-2020 23:07:13 Australia/Sydney] calculating controller checksum 6643d0b11867f7640e829ca4b1b43306
+[09-Nov-2020 23:07:13 Australia/Sydney] loading controller from db
+[09-Nov-2020 23:07:13 Australia/Sydney] processing file aliases queue
+[09-Nov-2020 23:07:13 Australia/Sydney] setting controller status to 1000
+[09-Nov-2020 23:07:13 Australia/Sydney] saving controller to db
+[09-Nov-2020 23:09:43 Australia/Sydney] instantiating restore controller 7530cb02ec75e507decf00b5f117bb2f
+[09-Nov-2020 23:09:43 Australia/Sydney] setting controller status to 100
+[09-Nov-2020 23:09:43 Australia/Sydney] loading backup info
+[09-Nov-2020 23:09:43 Australia/Sydney] loading controller plan
+[09-Nov-2020 23:09:43 Australia/Sydney] setting controller status to 300
+[09-Nov-2020 23:09:43 Australia/Sydney] applying restore defaults
+[09-Nov-2020 23:09:43 Australia/Sydney] Unknown setting: questionbank
+[09-Nov-2020 23:09:43 Australia/Sydney] setting controller status to 400
+[09-Nov-2020 23:09:43 Australia/Sydney] checking plan security
+[09-Nov-2020 23:09:43 Australia/Sydney] setting controller status to 500
+[09-Nov-2020 23:09:43 Australia/Sydney] checking plan security
+[09-Nov-2020 23:09:43 Australia/Sydney] checking plan security
+[09-Nov-2020 23:09:43 Australia/Sydney] checking plan security
+[09-Nov-2020 23:09:43 Australia/Sydney] saving controller to db
+[09-Nov-2020 23:09:43 Australia/Sydney] calculating controller checksum 7cc3b7e763bec5539713ab7c6c972dad
+[09-Nov-2020 23:09:48 Australia/Sydney] loading controller from db
+[09-Nov-2020 23:09:48 Australia/Sydney] checking plan security
+[09-Nov-2020 23:09:48 Australia/Sydney] checking plan security
+[09-Nov-2020 23:09:48 Australia/Sydney] checking plan security
+[09-Nov-2020 23:09:48 Australia/Sydney] saving controller to db
+[09-Nov-2020 23:09:48 Australia/Sydney] calculating controller checksum 7cc3b7e763bec5539713ab7c6c972dad
+[09-Nov-2020 23:09:52 Australia/Sydney] loading controller from db
+[09-Nov-2020 23:09:52 Australia/Sydney] checking plan security
+[09-Nov-2020 23:09:52 Australia/Sydney] checking plan security
+[09-Nov-2020 23:09:52 Australia/Sydney] checking plan security
+[09-Nov-2020 23:09:52 Australia/Sydney] saving controller to db
+[09-Nov-2020 23:09:52 Australia/Sydney] calculating controller checksum 7cc3b7e763bec5539713ab7c6c972dad
+[09-Nov-2020 23:09:59 Australia/Sydney] loading controller from db
+[09-Nov-2020 23:09:59 Australia/Sydney] checking plan security
+[09-Nov-2020 23:09:59 Australia/Sydney] checking plan security
+[09-Nov-2020 23:09:59 Australia/Sydney] setting controller status to 600
+[09-Nov-2020 23:09:59 Australia/Sydney] saving controller to db
+[09-Nov-2020 23:09:59 Australia/Sydney] calculating controller checksum b9a1f9157cca98bfc86a0b2417ed023e
+[09-Nov-2020 23:09:59 Australia/Sydney] loading controller from db
+[09-Nov-2020 23:09:59 Australia/Sydney] setting controller status to 700
+[09-Nov-2020 23:09:59 Australia/Sydney] saving controller to db
+[09-Nov-2020 23:09:59 Australia/Sydney] calculating controller checksum a6d03aa09b3fe09b68491164e3a22326
+[09-Nov-2020 23:09:59 Australia/Sydney] loading controller from db
+[09-Nov-2020 23:09:59 Australia/Sydney] setting controller status to 800
+[09-Nov-2020 23:09:59 Australia/Sydney] saving controller to db
+[09-Nov-2020 23:09:59 Australia/Sydney] calculating controller checksum aca2be866eca0924418f4106b56d3d23
+[09-Nov-2020 23:09:59 Australia/Sydney] loading controller from db
+[09-Nov-2020 23:09:59 Australia/Sydney] processing file aliases queue
+[09-Nov-2020 23:10:00 Australia/Sydney] setting controller status to 1000
+[09-Nov-2020 23:10:00 Australia/Sydney] saving controller to db
+[11-Nov-2020 01:47:40 Australia/Sydney] instantiating restore controller dd16b37af0f45c40562ad4caab62f5ca
+[11-Nov-2020 01:47:40 Australia/Sydney] setting controller status to 100
+[11-Nov-2020 01:47:40 Australia/Sydney] loading backup info
+[11-Nov-2020 01:47:40 Australia/Sydney] loading controller plan
+[11-Nov-2020 01:47:40 Australia/Sydney] setting controller status to 300
+[11-Nov-2020 01:47:40 Australia/Sydney] applying restore defaults
+[11-Nov-2020 01:47:40 Australia/Sydney] Unknown setting: questionbank
+[11-Nov-2020 01:47:40 Australia/Sydney] setting controller status to 400
+[11-Nov-2020 01:47:40 Australia/Sydney] checking plan security
+[11-Nov-2020 01:47:40 Australia/Sydney] setting controller status to 500
+[11-Nov-2020 01:47:40 Australia/Sydney] checking plan security
+[11-Nov-2020 01:47:40 Australia/Sydney] checking plan security
+[11-Nov-2020 01:47:40 Australia/Sydney] checking plan security
+[11-Nov-2020 01:47:40 Australia/Sydney] saving controller to db
+[11-Nov-2020 01:47:40 Australia/Sydney] calculating controller checksum 78cc6d355ee6d02cae0422803ed415f7
+[11-Nov-2020 01:47:56 Australia/Sydney] loading controller from db
+[11-Nov-2020 01:47:56 Australia/Sydney] checking plan security
+[11-Nov-2020 01:47:56 Australia/Sydney] checking plan security
+[11-Nov-2020 01:47:56 Australia/Sydney] checking plan security
+[11-Nov-2020 01:47:56 Australia/Sydney] saving controller to db
+[11-Nov-2020 01:47:56 Australia/Sydney] calculating controller checksum 78cc6d355ee6d02cae0422803ed415f7
+[11-Nov-2020 01:48:05 Australia/Sydney] loading controller from db
+[11-Nov-2020 01:48:05 Australia/Sydney] checking plan security
+[11-Nov-2020 01:48:05 Australia/Sydney] checking plan security
+[11-Nov-2020 01:48:05 Australia/Sydney] checking plan security
+[11-Nov-2020 01:48:05 Australia/Sydney] saving controller to db
+[11-Nov-2020 01:48:05 Australia/Sydney] calculating controller checksum 78cc6d355ee6d02cae0422803ed415f7
+[11-Nov-2020 01:48:13 Australia/Sydney] loading controller from db
+[11-Nov-2020 01:48:13 Australia/Sydney] checking plan security
+[11-Nov-2020 01:48:13 Australia/Sydney] checking plan security
+[11-Nov-2020 01:48:13 Australia/Sydney] setting controller status to 600
+[11-Nov-2020 01:48:13 Australia/Sydney] saving controller to db
+[11-Nov-2020 01:48:13 Australia/Sydney] calculating controller checksum 0b5e543449849c0c106363001a365793
+[11-Nov-2020 01:48:13 Australia/Sydney] loading controller from db
+[11-Nov-2020 01:48:14 Australia/Sydney] setting controller status to 700
+[11-Nov-2020 01:48:14 Australia/Sydney] saving controller to db
+[11-Nov-2020 01:48:14 Australia/Sydney] calculating controller checksum dc4e831a2ddc6c8bd0302566dbf660bf
+[11-Nov-2020 01:48:14 Australia/Sydney] loading controller from db
+[11-Nov-2020 01:48:14 Australia/Sydney] setting controller status to 800
+[11-Nov-2020 01:48:14 Australia/Sydney] saving controller to db
+[11-Nov-2020 01:48:14 Australia/Sydney] calculating controller checksum 9b891d2681f0b97da3be52a238366213
+[11-Nov-2020 01:48:14 Australia/Sydney] loading controller from db
+[11-Nov-2020 01:48:15 Australia/Sydney] Restored item (Módulo 1 - Introducción) has availability condition on module that was not restored
+[11-Nov-2020 01:48:15 Australia/Sydney] Restored item (Módulo 2 - Diabetes y Enfermería) has availability condition on module that was not restored
+[11-Nov-2020 01:48:15 Australia/Sydney] Restored item (Módulo 3 – Atención de Enfermería a la Persona con Diabetes      ) has availability condition on module that was not restored
+[11-Nov-2020 01:48:16 Australia/Sydney] processing file aliases queue
+[11-Nov-2020 01:48:16 Australia/Sydney] setting controller status to 1000
+[11-Nov-2020 01:48:16 Australia/Sydney] saving controller to db
+[11-Nov-2020 01:51:40 Australia/Sydney] instantiating restore controller 0168c9db7c4a5e847a62fc90777d0675
+[11-Nov-2020 01:51:40 Australia/Sydney] setting controller status to 100
+[11-Nov-2020 01:51:40 Australia/Sydney] loading backup info
+[11-Nov-2020 01:51:40 Australia/Sydney] loading controller plan
+[11-Nov-2020 01:51:40 Australia/Sydney] setting controller status to 300
+[11-Nov-2020 01:51:40 Australia/Sydney] applying restore defaults
+[11-Nov-2020 01:51:40 Australia/Sydney] Unknown setting: questionbank
+[11-Nov-2020 01:51:40 Australia/Sydney] setting controller status to 400
+[11-Nov-2020 01:51:40 Australia/Sydney] checking plan security
+[11-Nov-2020 01:51:40 Australia/Sydney] setting controller status to 500
+[11-Nov-2020 01:51:40 Australia/Sydney] checking plan security
+[11-Nov-2020 01:51:40 Australia/Sydney] checking plan security
+[11-Nov-2020 01:51:40 Australia/Sydney] checking plan security
+[11-Nov-2020 01:51:40 Australia/Sydney] saving controller to db
+[11-Nov-2020 01:51:40 Australia/Sydney] calculating controller checksum f2a023b5799c387422942fbc8de80059
+[11-Nov-2020 01:52:15 Australia/Sydney] loading controller from db
+[11-Nov-2020 01:52:15 Australia/Sydney] checking plan security
+[11-Nov-2020 01:52:15 Australia/Sydney] checking plan security
+[11-Nov-2020 01:52:15 Australia/Sydney] checking plan security
+[11-Nov-2020 01:52:15 Australia/Sydney] saving controller to db
+[11-Nov-2020 01:52:15 Australia/Sydney] calculating controller checksum f2a023b5799c387422942fbc8de80059
+[11-Nov-2020 01:52:30 Australia/Sydney] loading controller from db
+[11-Nov-2020 01:52:30 Australia/Sydney] checking plan security
+[11-Nov-2020 01:52:30 Australia/Sydney] checking plan security
+[11-Nov-2020 01:52:30 Australia/Sydney] checking plan security
+[11-Nov-2020 01:52:30 Australia/Sydney] saving controller to db
+[11-Nov-2020 01:52:30 Australia/Sydney] calculating controller checksum 5686dd743a38a8c0106caf6d8b1b903b
+[11-Nov-2020 01:52:35 Australia/Sydney] loading controller from db
+[11-Nov-2020 01:52:35 Australia/Sydney] checking plan security
+[11-Nov-2020 01:52:35 Australia/Sydney] checking plan security
+[11-Nov-2020 01:52:35 Australia/Sydney] setting controller status to 600
+[11-Nov-2020 01:52:35 Australia/Sydney] saving controller to db
+[11-Nov-2020 01:52:35 Australia/Sydney] calculating controller checksum 62e0e8f067a2b73e99d942e020e0457e
+[11-Nov-2020 01:52:35 Australia/Sydney] loading controller from db
+[11-Nov-2020 01:52:35 Australia/Sydney] setting controller status to 700
+[11-Nov-2020 01:52:35 Australia/Sydney] saving controller to db
+[11-Nov-2020 01:52:35 Australia/Sydney] calculating controller checksum d081b4753d7e046b7471a85b2a152800
+[11-Nov-2020 01:52:35 Australia/Sydney] loading controller from db
+[11-Nov-2020 01:52:35 Australia/Sydney] setting controller status to 800
+[11-Nov-2020 01:52:35 Australia/Sydney] saving controller to db
+[11-Nov-2020 01:52:35 Australia/Sydney] calculating controller checksum 2aba1f3af2a0e83612427858b71fd9c2
+[11-Nov-2020 01:52:35 Australia/Sydney] loading controller from db
+[11-Nov-2020 01:52:36 Australia/Sydney] processing file aliases queue
+[11-Nov-2020 01:52:36 Australia/Sydney] setting controller status to 1000
+[11-Nov-2020 01:52:36 Australia/Sydney] saving controller to db
+[11-Nov-2020 01:58:26 Australia/Sydney] instantiating restore controller 6041dc09ed3d207906beee80dbbf53ca
+[11-Nov-2020 01:58:26 Australia/Sydney] setting controller status to 100
+[11-Nov-2020 01:58:26 Australia/Sydney] loading backup info
+[11-Nov-2020 01:58:26 Australia/Sydney] loading controller plan
+[11-Nov-2020 01:58:26 Australia/Sydney] setting controller status to 300
+[11-Nov-2020 01:58:26 Australia/Sydney] applying restore defaults
+[11-Nov-2020 01:58:26 Australia/Sydney] Unknown setting: questionbank
+[11-Nov-2020 01:58:26 Australia/Sydney] setting controller status to 400
+[11-Nov-2020 01:58:26 Australia/Sydney] checking plan security
+[11-Nov-2020 01:58:26 Australia/Sydney] setting controller status to 500
+[11-Nov-2020 01:58:26 Australia/Sydney] checking plan security
+[11-Nov-2020 01:58:26 Australia/Sydney] checking plan security
+[11-Nov-2020 01:58:26 Australia/Sydney] checking plan security
+[11-Nov-2020 01:58:26 Australia/Sydney] saving controller to db
+[11-Nov-2020 01:58:26 Australia/Sydney] calculating controller checksum b8c5e61b947968a2ff087deef08d896f
+[11-Nov-2020 01:58:34 Australia/Sydney] loading controller from db
+[11-Nov-2020 01:58:34 Australia/Sydney] checking plan security
+[11-Nov-2020 01:58:34 Australia/Sydney] checking plan security
+[11-Nov-2020 01:58:34 Australia/Sydney] checking plan security
+[11-Nov-2020 01:58:34 Australia/Sydney] saving controller to db
+[11-Nov-2020 01:58:34 Australia/Sydney] calculating controller checksum b8c5e61b947968a2ff087deef08d896f
+[11-Nov-2020 01:58:44 Australia/Sydney] loading controller from db
+[11-Nov-2020 01:58:44 Australia/Sydney] checking plan security
+[11-Nov-2020 01:58:44 Australia/Sydney] checking plan security
+[11-Nov-2020 01:58:44 Australia/Sydney] checking plan security
+[11-Nov-2020 01:58:44 Australia/Sydney] saving controller to db
+[11-Nov-2020 01:58:44 Australia/Sydney] calculating controller checksum b8c5e61b947968a2ff087deef08d896f
+[11-Nov-2020 01:58:53 Australia/Sydney] loading controller from db
+[11-Nov-2020 01:58:53 Australia/Sydney] checking plan security
+[11-Nov-2020 01:58:53 Australia/Sydney] checking plan security
+[11-Nov-2020 01:58:53 Australia/Sydney] setting controller status to 600
+[11-Nov-2020 01:58:53 Australia/Sydney] saving controller to db
+[11-Nov-2020 01:58:53 Australia/Sydney] calculating controller checksum f5ab7a813f6b0fdf47d7b69a9fa5320c
+[11-Nov-2020 01:58:53 Australia/Sydney] loading controller from db
+[11-Nov-2020 01:58:54 Australia/Sydney] setting controller status to 700
+[11-Nov-2020 01:58:54 Australia/Sydney] saving controller to db
+[11-Nov-2020 01:58:54 Australia/Sydney] calculating controller checksum 98ddd9e4d57b03b61491c184977ae2f7
+[11-Nov-2020 01:58:54 Australia/Sydney] loading controller from db
+[11-Nov-2020 01:58:54 Australia/Sydney] setting controller status to 800
+[11-Nov-2020 01:58:54 Australia/Sydney] saving controller to db
+[11-Nov-2020 01:58:54 Australia/Sydney] calculating controller checksum eb0d8480c93d639a61f01c0afe7b9d93
+[11-Nov-2020 01:58:54 Australia/Sydney] loading controller from db
+[11-Nov-2020 01:59:39 Australia/Sydney] PHP Notice:  Undefined property: stdClass::$version in /home/ki517166/public_html/lms.net.au/backup/moodle2/restore_stepslib.php on line 2579
+[11-Nov-2020 01:59:39 Australia/Sydney] PHP Notice:  Undefined property: stdClass::$language in /home/ki517166/public_html/lms.net.au/backup/moodle2/restore_stepslib.php on line 2580
+[11-Nov-2020 01:59:39 Australia/Sydney] PHP Notice:  Undefined property: stdClass::$imageauthorname in /home/ki517166/public_html/lms.net.au/backup/moodle2/restore_stepslib.php on line 2581
+[11-Nov-2020 01:59:39 Australia/Sydney] PHP Notice:  Undefined property: stdClass::$imageauthoremail in /home/ki517166/public_html/lms.net.au/backup/moodle2/restore_stepslib.php on line 2582
+[11-Nov-2020 01:59:39 Australia/Sydney] PHP Notice:  Undefined property: stdClass::$imageauthorurl in /home/ki517166/public_html/lms.net.au/backup/moodle2/restore_stepslib.php on line 2583
+[11-Nov-2020 01:59:39 Australia/Sydney] PHP Notice:  Undefined property: stdClass::$imagecaption in /home/ki517166/public_html/lms.net.au/backup/moodle2/restore_stepslib.php on line 2584
+[11-Nov-2020 01:59:40 Australia/Sydney] processing file aliases queue
+[11-Nov-2020 01:59:40 Australia/Sydney] setting controller status to 1000
+[11-Nov-2020 01:59:40 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:01:27 Australia/Sydney] instantiating restore controller f6859b58bbd0a1bcfd283b6ae5a32d67
+[11-Nov-2020 02:01:27 Australia/Sydney] setting controller status to 100
+[11-Nov-2020 02:01:27 Australia/Sydney] loading backup info
+[11-Nov-2020 02:01:27 Australia/Sydney] loading controller plan
+[11-Nov-2020 02:01:27 Australia/Sydney] setting controller status to 300
+[11-Nov-2020 02:01:27 Australia/Sydney] applying restore defaults
+[11-Nov-2020 02:01:27 Australia/Sydney] Unknown setting: questionbank
+[11-Nov-2020 02:01:27 Australia/Sydney] setting controller status to 400
+[11-Nov-2020 02:01:27 Australia/Sydney] checking plan security
+[11-Nov-2020 02:01:27 Australia/Sydney] setting controller status to 500
+[11-Nov-2020 02:01:27 Australia/Sydney] checking plan security
+[11-Nov-2020 02:01:27 Australia/Sydney] checking plan security
+[11-Nov-2020 02:01:27 Australia/Sydney] checking plan security
+[11-Nov-2020 02:01:27 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:01:27 Australia/Sydney] calculating controller checksum 75182230989b2771579c6baeedadc3ec
+[11-Nov-2020 02:01:38 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:01:38 Australia/Sydney] checking plan security
+[11-Nov-2020 02:01:38 Australia/Sydney] checking plan security
+[11-Nov-2020 02:01:38 Australia/Sydney] checking plan security
+[11-Nov-2020 02:01:38 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:01:38 Australia/Sydney] calculating controller checksum 75182230989b2771579c6baeedadc3ec
+[11-Nov-2020 02:01:51 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:01:51 Australia/Sydney] checking plan security
+[11-Nov-2020 02:01:51 Australia/Sydney] checking plan security
+[11-Nov-2020 02:01:51 Australia/Sydney] checking plan security
+[11-Nov-2020 02:01:51 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:01:51 Australia/Sydney] calculating controller checksum 75182230989b2771579c6baeedadc3ec
+[11-Nov-2020 02:02:06 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:02:06 Australia/Sydney] checking plan security
+[11-Nov-2020 02:02:06 Australia/Sydney] checking plan security
+[11-Nov-2020 02:02:06 Australia/Sydney] setting controller status to 600
+[11-Nov-2020 02:02:06 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:02:06 Australia/Sydney] calculating controller checksum 7c115288caa520247bc266f8fda93a72
+[11-Nov-2020 02:02:06 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:02:10 Australia/Sydney] setting controller status to 700
+[11-Nov-2020 02:02:10 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:02:10 Australia/Sydney] calculating controller checksum 5808dd1d2c5e909505396ce8eb574d5c
+[11-Nov-2020 02:02:10 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:02:10 Australia/Sydney] setting controller status to 800
+[11-Nov-2020 02:02:10 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:02:10 Australia/Sydney] calculating controller checksum ec6e978d7820a38d5d759909f1798aed
+[11-Nov-2020 02:02:10 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:02:26 Australia/Sydney] PHP Notice:  Undefined property: stdClass::$version in /home/ki517166/public_html/lms.net.au/backup/moodle2/restore_stepslib.php on line 2579
+[11-Nov-2020 02:02:26 Australia/Sydney] PHP Notice:  Undefined property: stdClass::$language in /home/ki517166/public_html/lms.net.au/backup/moodle2/restore_stepslib.php on line 2580
+[11-Nov-2020 02:02:26 Australia/Sydney] PHP Notice:  Undefined property: stdClass::$imageauthorname in /home/ki517166/public_html/lms.net.au/backup/moodle2/restore_stepslib.php on line 2581
+[11-Nov-2020 02:02:26 Australia/Sydney] PHP Notice:  Undefined property: stdClass::$imageauthoremail in /home/ki517166/public_html/lms.net.au/backup/moodle2/restore_stepslib.php on line 2582
+[11-Nov-2020 02:02:26 Australia/Sydney] PHP Notice:  Undefined property: stdClass::$imageauthorurl in /home/ki517166/public_html/lms.net.au/backup/moodle2/restore_stepslib.php on line 2583
+[11-Nov-2020 02:02:26 Australia/Sydney] PHP Notice:  Undefined property: stdClass::$imagecaption in /home/ki517166/public_html/lms.net.au/backup/moodle2/restore_stepslib.php on line 2584
+[11-Nov-2020 02:02:26 Australia/Sydney] processing file aliases queue
+[11-Nov-2020 02:02:26 Australia/Sydney] setting controller status to 1000
+[11-Nov-2020 02:02:26 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:05:50 Australia/Sydney] instantiating restore controller a7d5a3c02cf1a66dc2b27285d1610a20
+[11-Nov-2020 02:05:50 Australia/Sydney] setting controller status to 100
+[11-Nov-2020 02:05:50 Australia/Sydney] loading backup info
+[11-Nov-2020 02:05:50 Australia/Sydney] loading controller plan
+[11-Nov-2020 02:05:50 Australia/Sydney] setting controller status to 300
+[11-Nov-2020 02:05:50 Australia/Sydney] applying restore defaults
+[11-Nov-2020 02:05:50 Australia/Sydney] Unknown setting: questionbank
+[11-Nov-2020 02:05:50 Australia/Sydney] setting controller status to 400
+[11-Nov-2020 02:05:50 Australia/Sydney] checking plan security
+[11-Nov-2020 02:05:50 Australia/Sydney] setting controller status to 500
+[11-Nov-2020 02:05:50 Australia/Sydney] checking plan security
+[11-Nov-2020 02:05:50 Australia/Sydney] checking plan security
+[11-Nov-2020 02:05:50 Australia/Sydney] checking plan security
+[11-Nov-2020 02:05:50 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:05:50 Australia/Sydney] calculating controller checksum c546077d9c22aafe8f3044f8e51192d9
+[11-Nov-2020 02:06:04 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:06:04 Australia/Sydney] checking plan security
+[11-Nov-2020 02:06:04 Australia/Sydney] checking plan security
+[11-Nov-2020 02:06:04 Australia/Sydney] checking plan security
+[11-Nov-2020 02:06:04 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:06:04 Australia/Sydney] calculating controller checksum c546077d9c22aafe8f3044f8e51192d9
+[11-Nov-2020 02:06:27 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:06:27 Australia/Sydney] checking plan security
+[11-Nov-2020 02:06:27 Australia/Sydney] checking plan security
+[11-Nov-2020 02:06:27 Australia/Sydney] checking plan security
+[11-Nov-2020 02:06:27 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:06:27 Australia/Sydney] calculating controller checksum 1d854438074efa772062a95bc236217a
+[11-Nov-2020 02:06:37 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:06:37 Australia/Sydney] checking plan security
+[11-Nov-2020 02:06:37 Australia/Sydney] checking plan security
+[11-Nov-2020 02:06:37 Australia/Sydney] setting controller status to 600
+[11-Nov-2020 02:06:37 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:06:37 Australia/Sydney] calculating controller checksum 5ff3f1bef6bb1f55b6cf8219db9f70f8
+[11-Nov-2020 02:06:37 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:06:37 Australia/Sydney] setting controller status to 700
+[11-Nov-2020 02:06:37 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:06:37 Australia/Sydney] calculating controller checksum 33db7a41ada60df3606f1d149ab5cf9b
+[11-Nov-2020 02:06:37 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:06:37 Australia/Sydney] setting controller status to 800
+[11-Nov-2020 02:06:37 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:06:37 Australia/Sydney] calculating controller checksum f42f8e8d42c43a806e08d46d1ec7e05b
+[11-Nov-2020 02:06:37 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:06:38 Australia/Sydney] Restored item (Módulo 1 - Introducción) has availability condition on module that was not restored
+[11-Nov-2020 02:06:38 Australia/Sydney] Restored item (Módulo 2 - Diabetes y Enfermería) has availability condition on module that was not restored
+[11-Nov-2020 02:06:38 Australia/Sydney] Restored item (Módulo 3 – Atención de Enfermería a la Persona con Diabetes      ) has availability condition on module that was not restored
+[11-Nov-2020 02:06:38 Australia/Sydney] processing file aliases queue
+[11-Nov-2020 02:06:38 Australia/Sydney] setting controller status to 1000
+[11-Nov-2020 02:06:38 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:09:31 Australia/Sydney] instantiating restore controller 436fd998c3b23b36e1d40b1e0a3a2e98
+[11-Nov-2020 02:09:31 Australia/Sydney] setting controller status to 100
+[11-Nov-2020 02:09:31 Australia/Sydney] loading backup info
+[11-Nov-2020 02:09:31 Australia/Sydney] loading controller plan
+[11-Nov-2020 02:09:31 Australia/Sydney] setting controller status to 300
+[11-Nov-2020 02:09:31 Australia/Sydney] applying restore defaults
+[11-Nov-2020 02:09:31 Australia/Sydney] Unknown setting: questionbank
+[11-Nov-2020 02:09:31 Australia/Sydney] setting controller status to 400
+[11-Nov-2020 02:09:31 Australia/Sydney] checking plan security
+[11-Nov-2020 02:09:31 Australia/Sydney] setting controller status to 500
+[11-Nov-2020 02:09:31 Australia/Sydney] checking plan security
+[11-Nov-2020 02:09:31 Australia/Sydney] checking plan security
+[11-Nov-2020 02:09:31 Australia/Sydney] checking plan security
+[11-Nov-2020 02:09:31 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:09:31 Australia/Sydney] calculating controller checksum bcc9f7ebeb2e845e466394f55f5ca076
+[11-Nov-2020 02:09:50 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:09:50 Australia/Sydney] checking plan security
+[11-Nov-2020 02:09:50 Australia/Sydney] checking plan security
+[11-Nov-2020 02:09:50 Australia/Sydney] checking plan security
+[11-Nov-2020 02:09:50 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:09:50 Australia/Sydney] calculating controller checksum bcc9f7ebeb2e845e466394f55f5ca076
+[11-Nov-2020 02:10:01 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:10:01 Australia/Sydney] checking plan security
+[11-Nov-2020 02:10:01 Australia/Sydney] checking plan security
+[11-Nov-2020 02:10:01 Australia/Sydney] checking plan security
+[11-Nov-2020 02:10:01 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:10:01 Australia/Sydney] calculating controller checksum bcc9f7ebeb2e845e466394f55f5ca076
+[11-Nov-2020 02:10:09 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:10:09 Australia/Sydney] checking plan security
+[11-Nov-2020 02:10:09 Australia/Sydney] checking plan security
+[11-Nov-2020 02:10:09 Australia/Sydney] setting controller status to 600
+[11-Nov-2020 02:10:09 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:10:09 Australia/Sydney] calculating controller checksum ea86aa4b6d6b94b98b32d4b7c4cbdd01
+[11-Nov-2020 02:10:09 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:10:09 Australia/Sydney] setting controller status to 700
+[11-Nov-2020 02:10:09 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:10:09 Australia/Sydney] calculating controller checksum 57d1b2bb658097fd7204849e4f9f199f
+[11-Nov-2020 02:10:10 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:10:10 Australia/Sydney] setting controller status to 800
+[11-Nov-2020 02:10:10 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:10:10 Australia/Sydney] calculating controller checksum 1ef9481befe3f7c0364e7ccc44f79db2
+[11-Nov-2020 02:10:10 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:10:10 Australia/Sydney] Enrol plugin 'stripepayment' data can not be restored because it is not enabled, consider restoring without enrolment methods
+[11-Nov-2020 02:10:10 Australia/Sydney] Enrol plugin 'paypal' data can not be restored because it is not enabled, consider restoring without enrolment methods
+[11-Nov-2020 02:10:12 Australia/Sydney] processing file aliases queue
+[11-Nov-2020 02:10:12 Australia/Sydney] setting controller status to 1000
+[11-Nov-2020 02:10:12 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:13:02 Australia/Sydney] instantiating restore controller 954e3879dd1333a4a220a97e98c2a892
+[11-Nov-2020 02:13:02 Australia/Sydney] setting controller status to 100
+[11-Nov-2020 02:13:02 Australia/Sydney] loading backup info
+[11-Nov-2020 02:13:02 Australia/Sydney] loading controller plan
+[11-Nov-2020 02:13:02 Australia/Sydney] setting controller status to 300
+[11-Nov-2020 02:13:02 Australia/Sydney] applying restore defaults
+[11-Nov-2020 02:13:02 Australia/Sydney] Unknown setting: questionbank
+[11-Nov-2020 02:13:02 Australia/Sydney] setting controller status to 400
+[11-Nov-2020 02:13:02 Australia/Sydney] checking plan security
+[11-Nov-2020 02:13:02 Australia/Sydney] setting controller status to 500
+[11-Nov-2020 02:13:02 Australia/Sydney] checking plan security
+[11-Nov-2020 02:13:02 Australia/Sydney] checking plan security
+[11-Nov-2020 02:13:02 Australia/Sydney] checking plan security
+[11-Nov-2020 02:13:02 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:13:02 Australia/Sydney] calculating controller checksum 01db5b3913af0b9091d7b6f3bf3ec2cf
+[11-Nov-2020 02:13:08 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:13:08 Australia/Sydney] checking plan security
+[11-Nov-2020 02:13:08 Australia/Sydney] checking plan security
+[11-Nov-2020 02:13:08 Australia/Sydney] checking plan security
+[11-Nov-2020 02:13:08 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:13:08 Australia/Sydney] calculating controller checksum 01db5b3913af0b9091d7b6f3bf3ec2cf
+[11-Nov-2020 02:13:18 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:13:18 Australia/Sydney] checking plan security
+[11-Nov-2020 02:13:18 Australia/Sydney] checking plan security
+[11-Nov-2020 02:13:18 Australia/Sydney] checking plan security
+[11-Nov-2020 02:13:18 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:13:18 Australia/Sydney] calculating controller checksum 01db5b3913af0b9091d7b6f3bf3ec2cf
+[11-Nov-2020 02:13:25 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:13:25 Australia/Sydney] checking plan security
+[11-Nov-2020 02:13:25 Australia/Sydney] checking plan security
+[11-Nov-2020 02:13:25 Australia/Sydney] setting controller status to 600
+[11-Nov-2020 02:13:25 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:13:25 Australia/Sydney] calculating controller checksum c2fa98d667269913fcd3544709620cc9
+[11-Nov-2020 02:13:25 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:13:26 Australia/Sydney] setting controller status to 700
+[11-Nov-2020 02:13:26 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:13:26 Australia/Sydney] calculating controller checksum d2654026bfd37431dcb995e171aa96f9
+[11-Nov-2020 02:13:26 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:13:26 Australia/Sydney] setting controller status to 800
+[11-Nov-2020 02:13:26 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:13:26 Australia/Sydney] calculating controller checksum bb5e1733b82b6c5eeb27ce7aa7dc31e7
+[11-Nov-2020 02:13:26 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:13:29 Australia/Sydney] processing file aliases queue
+[11-Nov-2020 02:13:30 Australia/Sydney] setting controller status to 1000
+[11-Nov-2020 02:13:30 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:16:35 Australia/Sydney] instantiating restore controller 3d1d431f51f85d92294219f130c727cf
+[11-Nov-2020 02:16:35 Australia/Sydney] setting controller status to 100
+[11-Nov-2020 02:16:35 Australia/Sydney] loading backup info
+[11-Nov-2020 02:16:35 Australia/Sydney] loading controller plan
+[11-Nov-2020 02:16:35 Australia/Sydney] setting controller status to 300
+[11-Nov-2020 02:16:35 Australia/Sydney] applying restore defaults
+[11-Nov-2020 02:16:35 Australia/Sydney] Unknown setting: questionbank
+[11-Nov-2020 02:16:35 Australia/Sydney] setting controller status to 400
+[11-Nov-2020 02:16:35 Australia/Sydney] checking plan security
+[11-Nov-2020 02:16:35 Australia/Sydney] setting controller status to 500
+[11-Nov-2020 02:16:35 Australia/Sydney] checking plan security
+[11-Nov-2020 02:16:35 Australia/Sydney] checking plan security
+[11-Nov-2020 02:16:35 Australia/Sydney] checking plan security
+[11-Nov-2020 02:16:35 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:16:35 Australia/Sydney] calculating controller checksum c633270dd4b4563778dbcd00e71ab52f
+[11-Nov-2020 02:16:45 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:16:45 Australia/Sydney] checking plan security
+[11-Nov-2020 02:16:45 Australia/Sydney] checking plan security
+[11-Nov-2020 02:16:45 Australia/Sydney] checking plan security
+[11-Nov-2020 02:16:45 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:16:45 Australia/Sydney] calculating controller checksum c633270dd4b4563778dbcd00e71ab52f
+[11-Nov-2020 02:16:53 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:16:53 Australia/Sydney] checking plan security
+[11-Nov-2020 02:16:53 Australia/Sydney] checking plan security
+[11-Nov-2020 02:16:53 Australia/Sydney] checking plan security
+[11-Nov-2020 02:16:53 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:16:53 Australia/Sydney] calculating controller checksum c633270dd4b4563778dbcd00e71ab52f
+[11-Nov-2020 02:16:58 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:16:58 Australia/Sydney] checking plan security
+[11-Nov-2020 02:16:58 Australia/Sydney] checking plan security
+[11-Nov-2020 02:16:58 Australia/Sydney] setting controller status to 600
+[11-Nov-2020 02:16:58 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:16:58 Australia/Sydney] calculating controller checksum 6b881655444ef3b740aa22d832cbfc7b
+[11-Nov-2020 02:16:58 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:16:59 Australia/Sydney] setting controller status to 700
+[11-Nov-2020 02:16:59 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:16:59 Australia/Sydney] calculating controller checksum 49e36695fd3cde385f9a3c0c0055c283
+[11-Nov-2020 02:16:59 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:16:59 Australia/Sydney] setting controller status to 800
+[11-Nov-2020 02:16:59 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:16:59 Australia/Sydney] calculating controller checksum a52b852b608b69295a20361f39f419d8
+[11-Nov-2020 02:16:59 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:17:48 Australia/Sydney] PHP Notice:  Undefined property: stdClass::$version in /home/ki517166/public_html/lms.net.au/backup/moodle2/restore_stepslib.php on line 2579
+[11-Nov-2020 02:17:48 Australia/Sydney] PHP Notice:  Undefined property: stdClass::$language in /home/ki517166/public_html/lms.net.au/backup/moodle2/restore_stepslib.php on line 2580
+[11-Nov-2020 02:17:48 Australia/Sydney] PHP Notice:  Undefined property: stdClass::$imageauthorname in /home/ki517166/public_html/lms.net.au/backup/moodle2/restore_stepslib.php on line 2581
+[11-Nov-2020 02:17:48 Australia/Sydney] PHP Notice:  Undefined property: stdClass::$imageauthoremail in /home/ki517166/public_html/lms.net.au/backup/moodle2/restore_stepslib.php on line 2582
+[11-Nov-2020 02:17:48 Australia/Sydney] PHP Notice:  Undefined property: stdClass::$imageauthorurl in /home/ki517166/public_html/lms.net.au/backup/moodle2/restore_stepslib.php on line 2583
+[11-Nov-2020 02:17:48 Australia/Sydney] PHP Notice:  Undefined property: stdClass::$imagecaption in /home/ki517166/public_html/lms.net.au/backup/moodle2/restore_stepslib.php on line 2584
+[11-Nov-2020 02:17:48 Australia/Sydney] processing file aliases queue
+[11-Nov-2020 02:17:48 Australia/Sydney] setting controller status to 1000
+[11-Nov-2020 02:17:48 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:23:53 Australia/Sydney] instantiating restore controller 177b9e4d60910cf7fc5050b95e867dda
+[11-Nov-2020 02:23:53 Australia/Sydney] setting controller status to 100
+[11-Nov-2020 02:23:53 Australia/Sydney] loading backup info
+[11-Nov-2020 02:23:53 Australia/Sydney] loading controller plan
+[11-Nov-2020 02:23:53 Australia/Sydney] setting controller status to 300
+[11-Nov-2020 02:23:53 Australia/Sydney] applying restore defaults
+[11-Nov-2020 02:23:53 Australia/Sydney] Unknown setting: questionbank
+[11-Nov-2020 02:23:53 Australia/Sydney] setting controller status to 400
+[11-Nov-2020 02:23:53 Australia/Sydney] checking plan security
+[11-Nov-2020 02:23:53 Australia/Sydney] setting controller status to 500
+[11-Nov-2020 02:23:53 Australia/Sydney] checking plan security
+[11-Nov-2020 02:23:53 Australia/Sydney] checking plan security
+[11-Nov-2020 02:23:53 Australia/Sydney] checking plan security
+[11-Nov-2020 02:23:53 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:23:53 Australia/Sydney] calculating controller checksum 50bc41b2fc7365d4e2f9d384db09694f
+[11-Nov-2020 02:24:00 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:24:00 Australia/Sydney] checking plan security
+[11-Nov-2020 02:24:00 Australia/Sydney] checking plan security
+[11-Nov-2020 02:24:00 Australia/Sydney] checking plan security
+[11-Nov-2020 02:24:00 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:24:00 Australia/Sydney] calculating controller checksum 50bc41b2fc7365d4e2f9d384db09694f
+[11-Nov-2020 02:24:24 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:24:24 Australia/Sydney] checking plan security
+[11-Nov-2020 02:24:24 Australia/Sydney] checking plan security
+[11-Nov-2020 02:24:24 Australia/Sydney] checking plan security
+[11-Nov-2020 02:24:24 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:24:24 Australia/Sydney] calculating controller checksum 5c213ef4ecc5f943f0bb2ff14670aade
+[11-Nov-2020 02:24:32 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:24:32 Australia/Sydney] checking plan security
+[11-Nov-2020 02:24:32 Australia/Sydney] checking plan security
+[11-Nov-2020 02:24:32 Australia/Sydney] setting controller status to 600
+[11-Nov-2020 02:24:32 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:24:32 Australia/Sydney] calculating controller checksum af2bdb52e68c34d8529bb6c7bb47577b
+[11-Nov-2020 02:24:32 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:24:33 Australia/Sydney] setting controller status to 700
+[11-Nov-2020 02:24:33 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:24:33 Australia/Sydney] calculating controller checksum cf334908ced9e8b3f444365cc61ec81f
+[11-Nov-2020 02:24:33 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:24:33 Australia/Sydney] setting controller status to 800
+[11-Nov-2020 02:24:33 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:24:33 Australia/Sydney] calculating controller checksum 9e46b2765f1b1e21ac667cbdf7ad9ba2
+[11-Nov-2020 02:24:33 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:24:45 Australia/Sydney] Restored item (<AVAILABILITY_CMNAME_239/>) has availability condition on module that was not restored
+[11-Nov-2020 02:24:45 Australia/Sydney] processing file aliases queue
+[11-Nov-2020 02:24:45 Australia/Sydney] setting controller status to 1000
+[11-Nov-2020 02:24:45 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:27:47 Australia/Sydney] instantiating restore controller cc397ba608948867e9fc1742ae42a5f9
+[11-Nov-2020 02:27:47 Australia/Sydney] setting controller status to 100
+[11-Nov-2020 02:27:47 Australia/Sydney] loading backup info
+[11-Nov-2020 02:27:47 Australia/Sydney] loading controller plan
+[11-Nov-2020 02:27:47 Australia/Sydney] setting controller status to 300
+[11-Nov-2020 02:27:47 Australia/Sydney] applying restore defaults
+[11-Nov-2020 02:27:47 Australia/Sydney] Unknown setting: questionbank
+[11-Nov-2020 02:27:47 Australia/Sydney] setting controller status to 400
+[11-Nov-2020 02:27:47 Australia/Sydney] checking plan security
+[11-Nov-2020 02:27:47 Australia/Sydney] setting controller status to 500
+[11-Nov-2020 02:27:47 Australia/Sydney] checking plan security
+[11-Nov-2020 02:27:47 Australia/Sydney] checking plan security
+[11-Nov-2020 02:27:47 Australia/Sydney] checking plan security
+[11-Nov-2020 02:27:47 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:27:47 Australia/Sydney] calculating controller checksum 27e50d30310f1c6219db94260d3958a2
+[11-Nov-2020 02:28:42 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:28:42 Australia/Sydney] checking plan security
+[11-Nov-2020 02:28:42 Australia/Sydney] checking plan security
+[11-Nov-2020 02:28:42 Australia/Sydney] checking plan security
+[11-Nov-2020 02:28:42 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:28:42 Australia/Sydney] calculating controller checksum 27e50d30310f1c6219db94260d3958a2
+[11-Nov-2020 02:28:58 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:28:58 Australia/Sydney] checking plan security
+[11-Nov-2020 02:28:58 Australia/Sydney] checking plan security
+[11-Nov-2020 02:28:58 Australia/Sydney] checking plan security
+[11-Nov-2020 02:28:58 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:28:58 Australia/Sydney] calculating controller checksum 3dfad46c55edaee808d1e3c912371ef0
+[11-Nov-2020 02:29:40 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:29:40 Australia/Sydney] checking plan security
+[11-Nov-2020 02:29:40 Australia/Sydney] checking plan security
+[11-Nov-2020 02:29:40 Australia/Sydney] setting controller status to 600
+[11-Nov-2020 02:29:40 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:29:40 Australia/Sydney] calculating controller checksum 44c0a8a8554c7ab881a3b015892f6008
+[11-Nov-2020 02:29:40 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:29:41 Australia/Sydney] setting controller status to 700
+[11-Nov-2020 02:29:41 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:29:41 Australia/Sydney] calculating controller checksum d83803676698ec1973b9cc19bc9d9aeb
+[11-Nov-2020 02:29:41 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:29:41 Australia/Sydney] setting controller status to 800
+[11-Nov-2020 02:29:41 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:29:41 Australia/Sydney] calculating controller checksum 6c9e6e47c3b6d3e4f26b9376dbd95b7f
+[11-Nov-2020 02:29:41 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:30:02 Australia/Sydney] PHP Notice:  Undefined property: stdClass::$version in /home/ki517166/public_html/lms.net.au/backup/moodle2/restore_stepslib.php on line 2579
+[11-Nov-2020 02:30:02 Australia/Sydney] PHP Notice:  Undefined property: stdClass::$language in /home/ki517166/public_html/lms.net.au/backup/moodle2/restore_stepslib.php on line 2580
+[11-Nov-2020 02:30:02 Australia/Sydney] PHP Notice:  Undefined property: stdClass::$imageauthorname in /home/ki517166/public_html/lms.net.au/backup/moodle2/restore_stepslib.php on line 2581
+[11-Nov-2020 02:30:02 Australia/Sydney] PHP Notice:  Undefined property: stdClass::$imageauthoremail in /home/ki517166/public_html/lms.net.au/backup/moodle2/restore_stepslib.php on line 2582
+[11-Nov-2020 02:30:02 Australia/Sydney] PHP Notice:  Undefined property: stdClass::$imageauthorurl in /home/ki517166/public_html/lms.net.au/backup/moodle2/restore_stepslib.php on line 2583
+[11-Nov-2020 02:30:02 Australia/Sydney] PHP Notice:  Undefined property: stdClass::$imagecaption in /home/ki517166/public_html/lms.net.au/backup/moodle2/restore_stepslib.php on line 2584
+[11-Nov-2020 02:30:03 Australia/Sydney] processing file aliases queue
+[11-Nov-2020 02:30:04 Australia/Sydney] setting controller status to 1000
+[11-Nov-2020 02:30:04 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:40:47 Australia/Sydney] instantiating restore controller b615d02418f6f5ef4b1fbced45fb4e3c
+[11-Nov-2020 02:40:47 Australia/Sydney] setting controller status to 100
+[11-Nov-2020 02:40:47 Australia/Sydney] loading backup info
+[11-Nov-2020 02:40:47 Australia/Sydney] loading controller plan
+[11-Nov-2020 02:40:47 Australia/Sydney] setting controller status to 300
+[11-Nov-2020 02:40:47 Australia/Sydney] applying restore defaults
+[11-Nov-2020 02:40:47 Australia/Sydney] Unknown setting: questionbank
+[11-Nov-2020 02:40:47 Australia/Sydney] setting controller status to 400
+[11-Nov-2020 02:40:47 Australia/Sydney] checking plan security
+[11-Nov-2020 02:40:47 Australia/Sydney] setting controller status to 500
+[11-Nov-2020 02:40:47 Australia/Sydney] checking plan security
+[11-Nov-2020 02:40:47 Australia/Sydney] checking plan security
+[11-Nov-2020 02:40:47 Australia/Sydney] checking plan security
+[11-Nov-2020 02:40:47 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:40:47 Australia/Sydney] calculating controller checksum 687fafe5ac4350fc3fadc28c2412d6cb
+[11-Nov-2020 02:40:55 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:40:55 Australia/Sydney] checking plan security
+[11-Nov-2020 02:40:55 Australia/Sydney] checking plan security
+[11-Nov-2020 02:40:55 Australia/Sydney] checking plan security
+[11-Nov-2020 02:40:55 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:40:55 Australia/Sydney] calculating controller checksum 687fafe5ac4350fc3fadc28c2412d6cb
+[11-Nov-2020 02:41:10 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:41:10 Australia/Sydney] checking plan security
+[11-Nov-2020 02:41:10 Australia/Sydney] checking plan security
+[11-Nov-2020 02:41:10 Australia/Sydney] checking plan security
+[11-Nov-2020 02:41:10 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:41:10 Australia/Sydney] calculating controller checksum 64f9e474a9f2da72454004d55a4bb268
+[11-Nov-2020 02:41:19 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:41:19 Australia/Sydney] checking plan security
+[11-Nov-2020 02:41:19 Australia/Sydney] checking plan security
+[11-Nov-2020 02:41:19 Australia/Sydney] setting controller status to 600
+[11-Nov-2020 02:41:19 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:41:19 Australia/Sydney] calculating controller checksum 5367f553de690eabb8c7578b437838c5
+[11-Nov-2020 02:41:19 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:41:20 Australia/Sydney] setting controller status to 700
+[11-Nov-2020 02:41:20 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:41:20 Australia/Sydney] calculating controller checksum 5abc70012a52e7ee1c6bc391915d707c
+[11-Nov-2020 02:41:20 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:41:20 Australia/Sydney] setting controller status to 800
+[11-Nov-2020 02:41:20 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:41:20 Australia/Sydney] calculating controller checksum 062b9a1e06a0b959c92b01ac97128dd1
+[11-Nov-2020 02:41:20 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:41:37 Australia/Sydney] PHP Notice:  Undefined property: stdClass::$version in /home/ki517166/public_html/lms.net.au/backup/moodle2/restore_stepslib.php on line 2579
+[11-Nov-2020 02:41:37 Australia/Sydney] PHP Notice:  Undefined property: stdClass::$language in /home/ki517166/public_html/lms.net.au/backup/moodle2/restore_stepslib.php on line 2580
+[11-Nov-2020 02:41:37 Australia/Sydney] PHP Notice:  Undefined property: stdClass::$imageauthorname in /home/ki517166/public_html/lms.net.au/backup/moodle2/restore_stepslib.php on line 2581
+[11-Nov-2020 02:41:37 Australia/Sydney] PHP Notice:  Undefined property: stdClass::$imageauthoremail in /home/ki517166/public_html/lms.net.au/backup/moodle2/restore_stepslib.php on line 2582
+[11-Nov-2020 02:41:37 Australia/Sydney] PHP Notice:  Undefined property: stdClass::$imageauthorurl in /home/ki517166/public_html/lms.net.au/backup/moodle2/restore_stepslib.php on line 2583
+[11-Nov-2020 02:41:37 Australia/Sydney] PHP Notice:  Undefined property: stdClass::$imagecaption in /home/ki517166/public_html/lms.net.au/backup/moodle2/restore_stepslib.php on line 2584
+[11-Nov-2020 02:41:37 Australia/Sydney] processing file aliases queue
+[11-Nov-2020 02:41:38 Australia/Sydney] setting controller status to 1000
+[11-Nov-2020 02:41:38 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:47:03 Australia/Sydney] instantiating restore controller b712ce2d5e85ec64f905e315fd6d72dd
+[11-Nov-2020 02:47:03 Australia/Sydney] setting controller status to 100
+[11-Nov-2020 02:47:03 Australia/Sydney] loading backup info
+[11-Nov-2020 02:47:03 Australia/Sydney] loading controller plan
+[11-Nov-2020 02:47:03 Australia/Sydney] setting controller status to 300
+[11-Nov-2020 02:47:03 Australia/Sydney] applying restore defaults
+[11-Nov-2020 02:47:03 Australia/Sydney] Unknown setting: questionbank
+[11-Nov-2020 02:47:03 Australia/Sydney] setting controller status to 400
+[11-Nov-2020 02:47:03 Australia/Sydney] checking plan security
+[11-Nov-2020 02:47:03 Australia/Sydney] setting controller status to 500
+[11-Nov-2020 02:47:03 Australia/Sydney] checking plan security
+[11-Nov-2020 02:47:03 Australia/Sydney] checking plan security
+[11-Nov-2020 02:47:03 Australia/Sydney] checking plan security
+[11-Nov-2020 02:47:03 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:47:03 Australia/Sydney] calculating controller checksum 0c8d6270328ff40dd3dbbae08d9ac106
+[11-Nov-2020 02:47:38 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:47:38 Australia/Sydney] checking plan security
+[11-Nov-2020 02:47:38 Australia/Sydney] checking plan security
+[11-Nov-2020 02:47:38 Australia/Sydney] checking plan security
+[11-Nov-2020 02:47:38 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:47:38 Australia/Sydney] calculating controller checksum 0c8d6270328ff40dd3dbbae08d9ac106
+[11-Nov-2020 02:48:46 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:48:46 Australia/Sydney] checking plan security
+[11-Nov-2020 02:48:46 Australia/Sydney] checking plan security
+[11-Nov-2020 02:48:46 Australia/Sydney] checking plan security
+[11-Nov-2020 02:48:46 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:48:46 Australia/Sydney] calculating controller checksum 9d8560b2836e05c31261c91b0c4be2ae
+[11-Nov-2020 02:49:46 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:49:46 Australia/Sydney] checking plan security
+[11-Nov-2020 02:49:46 Australia/Sydney] checking plan security
+[11-Nov-2020 02:49:46 Australia/Sydney] setting controller status to 600
+[11-Nov-2020 02:49:46 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:49:46 Australia/Sydney] calculating controller checksum 3cb888ffbfe7544b3923479b196f3dad
+[11-Nov-2020 02:49:46 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:49:46 Australia/Sydney] checking plan security
+[11-Nov-2020 02:49:46 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:49:46 Australia/Sydney] calculating controller checksum 5f6bf4b7a54bd6056f4b3769804df820
+[11-Nov-2020 02:51:22 Australia/Sydney] Default exception handler: error/invalidrestorefile Debug: 
+Error code: invalidrestorefile
+$a contents: 
+* line 295 of /backup/util/ui/restore_ui_stage.class.php: restore_ui_exception thrown
+* line 116 of /backup/restore.php: call to restore_ui_stage_confirm->process()
+
+[11-Nov-2020 02:54:20 Australia/Sydney] instantiating restore controller b747910cdec39aa3c297c314cb3efd98
+[11-Nov-2020 02:54:20 Australia/Sydney] setting controller status to 100
+[11-Nov-2020 02:54:20 Australia/Sydney] loading backup info
+[11-Nov-2020 02:54:20 Australia/Sydney] loading controller plan
+[11-Nov-2020 02:54:20 Australia/Sydney] setting controller status to 300
+[11-Nov-2020 02:54:20 Australia/Sydney] applying restore defaults
+[11-Nov-2020 02:54:20 Australia/Sydney] Unknown setting: questionbank
+[11-Nov-2020 02:54:20 Australia/Sydney] setting controller status to 400
+[11-Nov-2020 02:54:20 Australia/Sydney] checking plan security
+[11-Nov-2020 02:54:20 Australia/Sydney] setting controller status to 500
+[11-Nov-2020 02:54:20 Australia/Sydney] checking plan security
+[11-Nov-2020 02:54:20 Australia/Sydney] checking plan security
+[11-Nov-2020 02:54:20 Australia/Sydney] checking plan security
+[11-Nov-2020 02:54:20 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:54:20 Australia/Sydney] calculating controller checksum 9c289ae10f7e7a688e87f403c51e05e4
+[11-Nov-2020 02:54:33 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:54:33 Australia/Sydney] checking plan security
+[11-Nov-2020 02:54:33 Australia/Sydney] checking plan security
+[11-Nov-2020 02:54:33 Australia/Sydney] checking plan security
+[11-Nov-2020 02:54:33 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:54:33 Australia/Sydney] calculating controller checksum 2e4a60a0e04e57b92b11acb94bec7314
+[11-Nov-2020 02:54:49 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:54:49 Australia/Sydney] checking plan security
+[11-Nov-2020 02:54:49 Australia/Sydney] checking plan security
+[11-Nov-2020 02:54:49 Australia/Sydney] checking plan security
+[11-Nov-2020 02:54:49 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:54:49 Australia/Sydney] calculating controller checksum 3d04328287d11ed60f7fe67e3987272e
+[11-Nov-2020 02:54:59 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:54:59 Australia/Sydney] checking plan security
+[11-Nov-2020 02:54:59 Australia/Sydney] checking plan security
+[11-Nov-2020 02:54:59 Australia/Sydney] setting controller status to 600
+[11-Nov-2020 02:54:59 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:54:59 Australia/Sydney] calculating controller checksum feb080f9705b4cd21ff939144bd01896
+[11-Nov-2020 02:54:59 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:54:59 Australia/Sydney] setting controller status to 700
+[11-Nov-2020 02:54:59 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:54:59 Australia/Sydney] calculating controller checksum 345421881a20f195bc791e2dd82320ef
+[11-Nov-2020 02:54:59 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:54:59 Australia/Sydney] checking plan security
+[11-Nov-2020 02:54:59 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:54:59 Australia/Sydney] calculating controller checksum 345421881a20f195bc791e2dd82320ef
+[11-Nov-2020 02:55:19 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:55:19 Australia/Sydney] checking plan security
+[11-Nov-2020 02:55:19 Australia/Sydney] checking plan security
+[11-Nov-2020 02:55:19 Australia/Sydney] setting controller status to 800
+[11-Nov-2020 02:55:19 Australia/Sydney] saving controller to db
+[11-Nov-2020 02:55:19 Australia/Sydney] calculating controller checksum e6a73f07a34c70e10eacb18aade249eb
+[11-Nov-2020 02:55:19 Australia/Sydney] loading controller from db
+[11-Nov-2020 02:55:26 Australia/Sydney] Restored item (Módulo 1 - Introducción) has availability condition on module that was not restored
+[11-Nov-2020 02:55:26 Australia/Sydney] Restored item (Módulo 2 - Diabetes y Enfermería) has availability condition on module that was not restored
+[11-Nov-2020 02:55:26 Australia/Sydney] Restored item (Módulo 3 – Atención de Enfermería a la Persona con Diabetes      ) has availability condition on module that was not restored
+[11-Nov-2020 02:55:26 Australia/Sydney] Restored item (Módulo 4 - Cambio Comportamental) has availability condition on module that was not restored
+[11-Nov-2020 02:55:26 Australia/Sydney] Restored item (Módulo 5 – Tratamiento Farmacológico) has availability condition on module that was not restored
+[11-Nov-2020 02:55:26 Australia/Sydney] Restored item (Módulo 6 - Complicaciones Agudas de la Diabetes) has availability condition on module that was not restored
+[11-Nov-2020 02:55:26 Australia/Sydney] Restored item (Módulo 7 - Complicaciones Crónicas de la Diabetes) has availability condition on module that was not restored
+[11-Nov-2020 02:55:26 Australia/Sydney] Restored item (Módulo 8 - Pié Diabético) has availability condition on module that was not restored
+[11-Nov-2020 02:55:26 Australia/Sydney] processing file aliases queue
+[11-Nov-2020 02:55:26 Australia/Sydney] setting controller status to 1000
+[11-Nov-2020 02:55:26 Australia/Sydney] saving controller to db
+[11-Nov-2020 03:05:00 Australia/Sydney] instantiating restore controller 525e8497e7c46e26cda1e09b20afbc07
+[11-Nov-2020 03:05:00 Australia/Sydney] setting controller status to 100
+[11-Nov-2020 03:05:00 Australia/Sydney] loading backup info
+[11-Nov-2020 03:05:00 Australia/Sydney] loading controller plan
+[11-Nov-2020 03:05:00 Australia/Sydney] setting controller status to 300
+[11-Nov-2020 03:05:00 Australia/Sydney] applying restore defaults
+[11-Nov-2020 03:05:00 Australia/Sydney] Unknown setting: questionbank
+[11-Nov-2020 03:05:00 Australia/Sydney] setting controller status to 400
+[11-Nov-2020 03:05:00 Australia/Sydney] checking plan security
+[11-Nov-2020 03:05:00 Australia/Sydney] setting controller status to 500
+[11-Nov-2020 03:05:00 Australia/Sydney] checking plan security
+[11-Nov-2020 03:05:00 Australia/Sydney] checking plan security
+[11-Nov-2020 03:05:00 Australia/Sydney] checking plan security
+[11-Nov-2020 03:05:00 Australia/Sydney] saving controller to db
+[11-Nov-2020 03:05:00 Australia/Sydney] calculating controller checksum 40718578e83a28f1b0ffa795e202ab7b
+[11-Nov-2020 03:05:15 Australia/Sydney] loading controller from db
+[11-Nov-2020 03:05:15 Australia/Sydney] checking plan security
+[11-Nov-2020 03:05:15 Australia/Sydney] checking plan security
+[11-Nov-2020 03:05:15 Australia/Sydney] checking plan security
+[11-Nov-2020 03:05:15 Australia/Sydney] saving controller to db
+[11-Nov-2020 03:05:15 Australia/Sydney] calculating controller checksum ffb2e96670f814079459f4ec614d1a39
+[11-Nov-2020 03:05:34 Australia/Sydney] loading controller from db
+[11-Nov-2020 03:05:34 Australia/Sydney] checking plan security
+[11-Nov-2020 03:05:34 Australia/Sydney] checking plan security
+[11-Nov-2020 03:05:34 Australia/Sydney] checking plan security
+[11-Nov-2020 03:05:34 Australia/Sydney] saving controller to db
+[11-Nov-2020 03:05:34 Australia/Sydney] calculating controller checksum c1c7dfdd55a5f78769ee40da827806e6
+[11-Nov-2020 03:05:46 Australia/Sydney] loading controller from db
+[11-Nov-2020 03:05:46 Australia/Sydney] checking plan security
+[11-Nov-2020 03:05:46 Australia/Sydney] checking plan security
+[11-Nov-2020 03:05:46 Australia/Sydney] setting controller status to 600
+[11-Nov-2020 03:05:46 Australia/Sydney] saving controller to db
+[11-Nov-2020 03:05:46 Australia/Sydney] calculating controller checksum 924841a680b897f815f2fe2fc1159eae
+[11-Nov-2020 03:05:46 Australia/Sydney] loading controller from db
+[11-Nov-2020 03:05:46 Australia/Sydney] setting controller status to 700
+[11-Nov-2020 03:05:46 Australia/Sydney] saving controller to db
+[11-Nov-2020 03:05:46 Australia/Sydney] calculating controller checksum 9954f584c4e95d6d853ba5975778fa97
+[11-Nov-2020 03:05:46 Australia/Sydney] loading controller from db
+[11-Nov-2020 03:05:46 Australia/Sydney] setting controller status to 800
+[11-Nov-2020 03:05:46 Australia/Sydney] saving controller to db
+[11-Nov-2020 03:05:46 Australia/Sydney] calculating controller checksum e54a242931d519f6cf1b42fe79929368
+[11-Nov-2020 03:05:46 Australia/Sydney] loading controller from db
+[11-Nov-2020 03:05:49 Australia/Sydney] Restored item (Módulo 1 - Introducción) has availability condition on module that was not restored
+[11-Nov-2020 03:05:49 Australia/Sydney] Restored item (Módulo 2 - Diabetes y Enfermería) has availability condition on module that was not restored
+[11-Nov-2020 03:05:49 Australia/Sydney] Restored item (Módulo 3 – Atención de Enfermería a la Persona con Diabetes      ) has availability condition on module that was not restored
+[11-Nov-2020 03:05:49 Australia/Sydney] Restored item (Módulo 4 - Cambio Comportamental) has availability condition on module that was not restored
+[11-Nov-2020 03:05:49 Australia/Sydney] Restored item (Módulo 5 – Tratamiento Farmacológico) has availability condition on module that was not restored
+[11-Nov-2020 03:05:49 Australia/Sydney] Restored item (Módulo 6 - Complicaciones Agudas de la Diabetes) has availability condition on module that was not restored
+[11-Nov-2020 03:05:49 Australia/Sydney] Restored item (Módulo 7 - Complicaciones Crónicas de la Diabetes) has availability condition on module that was not restored
+[11-Nov-2020 03:05:49 Australia/Sydney] Restored item (Módulo 8 - Pié Diabético) has availability condition on module that was not restored
+[11-Nov-2020 03:05:49 Australia/Sydney] Restored item (Modulo 9 - Evaluacion final de cursada) has availability condition on module that was not restored
+[11-Nov-2020 03:05:49 Australia/Sydney] Restored item (Certificado y Encuesta de Satisfacción) has availability condition on module that was not restored
+[11-Nov-2020 03:05:49 Australia/Sydney] processing file aliases queue
+[11-Nov-2020 03:05:49 Australia/Sydney] setting controller status to 1000
+[11-Nov-2020 03:05:49 Australia/Sydney] saving controller to db

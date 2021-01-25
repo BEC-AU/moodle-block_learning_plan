@@ -1,0 +1,58 @@
+[27-Oct-2020 09:06:07 Australia/Sydney] Default exception handler: A required parameter (id) was missing Debug: 
+Error code: missingparam
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 566 of /lib/moodlelib.php: call to print_error()
+* line 16 of /portfolio/download/file.php: call to required_param()
+
+[26-Oct-2020 22:06:46 UTC] PHP Warning:  require_once(/portfoliolib.php): failed to open stream: No such file or directory in /home/ki517166/public_html/lms.net.au/portfolio/download/lib.php on line 3
+[26-Oct-2020 22:06:46 UTC] PHP Fatal error:  require_once(): Failed opening required '/portfoliolib.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/ki517166/public_html/lms.net.au/portfolio/download/lib.php on line 3
+[05-Nov-2020 15:54:56 Australia/Sydney] Default exception handler: A required parameter (id) was missing Debug: 
+Error code: missingparam
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 566 of /lib/moodlelib.php: call to print_error()
+* line 16 of /portfolio/download/file.php: call to required_param()
+
+[05-Nov-2020 04:55:02 UTC] PHP Warning:  require_once(/portfoliolib.php): failed to open stream: No such file or directory in /home/ki517166/public_html/lms.net.au/portfolio/download/lib.php on line 3
+[05-Nov-2020 04:55:02 UTC] PHP Fatal error:  require_once(): Failed opening required '/portfoliolib.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/ki517166/public_html/lms.net.au/portfolio/download/lib.php on line 3
+[09-Nov-2020 08:52:47 Australia/Sydney] Default exception handler: A required parameter (id) was missing Debug: 
+Error code: missingparam
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 566 of /lib/moodlelib.php: call to print_error()
+* line 16 of /portfolio/download/file.php: call to required_param()
+
+[08-Nov-2020 21:53:00 UTC] PHP Warning:  require_once(/portfoliolib.php): failed to open stream: No such file or directory in /home/ki517166/public_html/lms.net.au/portfolio/download/lib.php on line 3
+[08-Nov-2020 21:53:00 UTC] PHP Fatal error:  require_once(): Failed opening required '/portfoliolib.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/ki517166/public_html/lms.net.au/portfolio/download/lib.php on line 3
+[25-Dec-2020 11:33:06 Australia/Sydney] Default exception handler: A required parameter (id) was missing Debug: 
+Error code: missingparam
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 566 of /lib/moodlelib.php: call to print_error()
+* line 16 of /portfolio/download/file.php: call to required_param()
+
+[25-Dec-2020 00:33:26 UTC] PHP Warning:  require_once(/portfoliolib.php): failed to open stream: No such file or directory in /home/ki517166/public_html/lms.net.au/portfolio/download/lib.php on line 3
+[25-Dec-2020 00:33:26 UTC] PHP Fatal error:  require_once(): Failed opening required '/portfoliolib.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/ki517166/public_html/lms.net.au/portfolio/download/lib.php on line 3
+[26-Dec-2020 08:34:16 Australia/Sydney] Default exception handler: A required parameter (id) was missing Debug: 
+Error code: missingparam
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 566 of /lib/moodlelib.php: call to print_error()
+* line 16 of /portfolio/download/file.php: call to required_param()
+
+[25-Dec-2020 21:35:11 UTC] PHP Warning:  require_once(/portfoliolib.php): failed to open stream: No such file or directory in /home/ki517166/public_html/lms.net.au/portfolio/download/lib.php on line 3
+[25-Dec-2020 21:35:11 UTC] PHP Fatal error:  require_once(): Failed opening required '/portfoliolib.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/ki517166/public_html/lms.net.au/portfolio/download/lib.php on line 3
+[25-Dec-2020 21:37:46 UTC] PHP Warning:  require_once(/portfoliolib.php): failed to open stream: No such file or directory in /home/ki517166/public_html/lms.net.au/portfolio/download/lib.php on line 3
+[25-Dec-2020 21:37:46 UTC] PHP Fatal error:  require_once(): Failed opening required '/portfoliolib.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/ki517166/public_html/lms.net.au/portfolio/download/lib.php on line 3
+[26-Dec-2020 07:40:08 UTC] PHP Warning:  require_once(/portfoliolib.php): failed to open stream: No such file or directory in /home/ki517166/public_html/lms.net.au/portfolio/download/lib.php on line 3
+[26-Dec-2020 07:40:08 UTC] PHP Fatal error:  require_once(): Failed opening required '/portfoliolib.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/ki517166/public_html/lms.net.au/portfolio/download/lib.php on line 3
+[26-Dec-2020 16:30:40 UTC] PHP Warning:  require_once(/portfoliolib.php): failed to open stream: No such file or directory in /home/ki517166/public_html/lms.net.au/portfolio/download/lib.php on line 3
+[26-Dec-2020 16:30:40 UTC] PHP Fatal error:  require_once(): Failed opening required '/portfoliolib.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/ki517166/public_html/lms.net.au/portfolio/download/lib.php on line 3
+[27-Dec-2020 09:45:36 UTC] PHP Warning:  require_once(/portfoliolib.php): failed to open stream: No such file or directory in /home/ki517166/public_html/lms.net.au/portfolio/download/lib.php on line 3
+[27-Dec-2020 09:45:36 UTC] PHP Fatal error:  require_once(): Failed opening required '/portfoliolib.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/ki517166/public_html/lms.net.au/portfolio/download/lib.php on line 3
+[10-Jan-2021 18:46:04 UTC] PHP Warning:  require_once(/portfoliolib.php): failed to open stream: No such file or directory in /home/ki517166/public_html/lms.net.au/portfolio/download/lib.php on line 3
+[10-Jan-2021 18:46:04 UTC] PHP Fatal error:  require_once(): Failed opening required '/portfoliolib.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/ki517166/public_html/lms.net.au/portfolio/download/lib.php on line 3
+[12-Jan-2021 08:52:19 UTC] PHP Warning:  require_once(/portfoliolib.php): failed to open stream: No such file or directory in /home/ki517166/public_html/lms.net.au/portfolio/download/lib.php on line 3
+[12-Jan-2021 08:52:19 UTC] PHP Fatal error:  require_once(): Failed opening required '/portfoliolib.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/ki517166/public_html/lms.net.au/portfolio/download/lib.php on line 3
+[23-Jan-2021 08:09:31 UTC] PHP Warning:  require_once(/portfoliolib.php): failed to open stream: No such file or directory in /home/ki517166/public_html/lms.net.au/portfolio/download/lib.php on line 3
+[23-Jan-2021 08:09:31 UTC] PHP Fatal error:  require_once(): Failed opening required '/portfoliolib.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/ki517166/public_html/lms.net.au/portfolio/download/lib.php on line 3
+[23-Jan-2021 08:19:15 UTC] PHP Warning:  require_once(/portfoliolib.php): failed to open stream: No such file or directory in /home/ki517166/public_html/lms.net.au/portfolio/download/lib.php on line 3
+[23-Jan-2021 08:19:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/portfoliolib.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/ki517166/public_html/lms.net.au/portfolio/download/lib.php on line 3
+[23-Jan-2021 11:52:39 UTC] PHP Warning:  require_once(/portfoliolib.php): failed to open stream: No such file or directory in /home/ki517166/public_html/lms.net.au/portfolio/download/lib.php on line 3
+[23-Jan-2021 11:52:39 UTC] PHP Fatal error:  require_once(): Failed opening required '/portfoliolib.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/ki517166/public_html/lms.net.au/portfolio/download/lib.php on line 3

@@ -1,0 +1,318 @@
+[26-Oct-2020 03:49:29 Australia/Sydney] Default exception handler: Can't find data record in database table course. Debug: SELECT * FROM {course} WHERE id = ?
+[array (
+  0 => 5,
+)]
+Error code: invalidrecord
+* line 1599 of /lib/dml/moodle_database.php: dml_missing_record_exception thrown
+* line 1575 of /lib/dml/moodle_database.php: call to moodle_database->get_record_select()
+* line 33 of /course/view.php: call to moodle_database->get_record()
+
+[26-Oct-2020 03:49:35 Australia/Sydney] Default exception handler: Can't find data record in database table course. Debug: SELECT * FROM {course} WHERE id = ?
+[array (
+  0 => 3,
+)]
+Error code: invalidrecord
+* line 1599 of /lib/dml/moodle_database.php: dml_missing_record_exception thrown
+* line 1575 of /lib/dml/moodle_database.php: call to moodle_database->get_record_select()
+* line 33 of /course/view.php: call to moodle_database->get_record()
+
+[01-Nov-2020 22:26:47 Australia/Sydney] Default exception handler: Can't find data record in database table course. Debug: SELECT * FROM {course} WHERE id = ?
+[array (
+  0 => 3,
+)]
+Error code: invalidrecord
+* line 1599 of /lib/dml/moodle_database.php: dml_missing_record_exception thrown
+* line 1575 of /lib/dml/moodle_database.php: call to moodle_database->get_record_select()
+* line 33 of /course/view.php: call to moodle_database->get_record()
+
+[02-Nov-2020 05:07:47 Australia/Sydney] Default exception handler: Can't find data record in database table course. Debug: SELECT * FROM {course} WHERE id = ?
+[array (
+  0 => 5,
+)]
+Error code: invalidrecord
+* line 1599 of /lib/dml/moodle_database.php: dml_missing_record_exception thrown
+* line 1575 of /lib/dml/moodle_database.php: call to moodle_database->get_record_select()
+* line 33 of /course/view.php: call to moodle_database->get_record()
+
+[09-Nov-2020 22:51:32 Australia/Sydney] instantiating backup controller 67d3df1fc712c92a09f2708f64424ec3
+[09-Nov-2020 22:51:32 Australia/Sydney] setting controller status to 100
+[09-Nov-2020 22:51:32 Australia/Sydney] loading controller plan
+[09-Nov-2020 22:51:32 Australia/Sydney] setting controller status to 300
+[09-Nov-2020 22:51:32 Australia/Sydney] applying plan defaults
+[09-Nov-2020 22:51:32 Australia/Sydney] setting controller status to 400
+[09-Nov-2020 22:51:32 Australia/Sydney] setting file inclusion to 
+[09-Nov-2020 22:51:32 Australia/Sydney] checking plan security
+[09-Nov-2020 22:51:32 Australia/Sydney] setting controller status to 700
+[09-Nov-2020 22:51:32 Australia/Sydney] saving controller to db
+[09-Nov-2020 22:51:32 Australia/Sydney] calculating controller checksum 7f5024b92e73d750fd4b10ec14ddfc6a
+[09-Nov-2020 22:51:32 Australia/Sydney] loading controller from db
+[09-Nov-2020 22:51:32 Australia/Sydney] setting file inclusion to 1
+[09-Nov-2020 22:51:32 Australia/Sydney] setting controller status to 800
+[09-Nov-2020 22:51:32 Australia/Sydney] saving controller to db
+[09-Nov-2020 22:51:32 Australia/Sydney] calculating controller checksum 821a9e307dbf31a127cf5387bcdec552
+[09-Nov-2020 22:51:32 Australia/Sydney] loading controller from db
+[09-Nov-2020 22:51:32 Australia/Sydney] PHP Warning:  max(): Array must contain at least one element in /home/ki517166/public_html/lms.net.au/course/format/lib.php on line 287
+[09-Nov-2020 22:51:32 Australia/Sydney] setting controller status to 1000
+[09-Nov-2020 22:51:32 Australia/Sydney] saving controller to db
+[17-Nov-2020 21:17:53 Australia/Sydney] instantiating backup controller 30a0b13a323814b590880334ce2dfadb
+[17-Nov-2020 21:17:53 Australia/Sydney] setting controller status to 100
+[17-Nov-2020 21:17:53 Australia/Sydney] loading controller plan
+[17-Nov-2020 21:17:54 Australia/Sydney] setting controller status to 300
+[17-Nov-2020 21:17:54 Australia/Sydney] applying plan defaults
+[17-Nov-2020 21:17:54 Australia/Sydney] setting controller status to 400
+[17-Nov-2020 21:17:54 Australia/Sydney] setting file inclusion to 
+[17-Nov-2020 21:17:54 Australia/Sydney] checking plan security
+[17-Nov-2020 21:17:54 Australia/Sydney] setting controller status to 700
+[17-Nov-2020 21:17:54 Australia/Sydney] saving controller to db
+[17-Nov-2020 21:17:54 Australia/Sydney] calculating controller checksum 011e0b278faf7556f30531fc1fa42909
+[17-Nov-2020 21:17:54 Australia/Sydney] loading controller from db
+[17-Nov-2020 21:17:54 Australia/Sydney] setting file inclusion to 1
+[17-Nov-2020 21:17:54 Australia/Sydney] setting controller status to 800
+[17-Nov-2020 21:17:54 Australia/Sydney] saving controller to db
+[17-Nov-2020 21:17:54 Australia/Sydney] calculating controller checksum 1e2517f6908d832215edf46a6e46e07d
+[17-Nov-2020 21:17:54 Australia/Sydney] loading controller from db
+[17-Nov-2020 21:18:18 Australia/Sydney] setting controller status to 1000
+[17-Nov-2020 21:18:18 Australia/Sydney] saving controller to db
+[17-Nov-2020 21:19:51 Australia/Sydney] instantiating backup controller 566d4b4f7a22841192f40ceca353c397
+[17-Nov-2020 21:19:51 Australia/Sydney] setting controller status to 100
+[17-Nov-2020 21:19:51 Australia/Sydney] loading controller plan
+[17-Nov-2020 21:19:51 Australia/Sydney] setting controller status to 300
+[17-Nov-2020 21:19:51 Australia/Sydney] applying plan defaults
+[17-Nov-2020 21:19:51 Australia/Sydney] setting controller status to 400
+[17-Nov-2020 21:19:51 Australia/Sydney] setting file inclusion to 
+[17-Nov-2020 21:19:51 Australia/Sydney] checking plan security
+[17-Nov-2020 21:19:51 Australia/Sydney] setting controller status to 700
+[17-Nov-2020 21:19:51 Australia/Sydney] saving controller to db
+[17-Nov-2020 21:19:51 Australia/Sydney] calculating controller checksum 41f524d698a106109e948b893c3fc807
+[17-Nov-2020 21:19:51 Australia/Sydney] loading controller from db
+[17-Nov-2020 21:19:51 Australia/Sydney] setting file inclusion to 1
+[17-Nov-2020 21:19:51 Australia/Sydney] setting controller status to 800
+[17-Nov-2020 21:19:51 Australia/Sydney] saving controller to db
+[17-Nov-2020 21:19:51 Australia/Sydney] calculating controller checksum 995766e640d82f0cefbcc70cc9dc1530
+[17-Nov-2020 21:19:51 Australia/Sydney] loading controller from db
+[17-Nov-2020 21:20:18 Australia/Sydney] setting controller status to 1000
+[17-Nov-2020 21:20:18 Australia/Sydney] saving controller to db
+[17-Nov-2020 21:20:22 Australia/Sydney] Default exception handler: Can't find data record in database table course. Debug: SELECT * FROM {course} WHERE id = ?
+[array (
+  0 => 25,
+)]
+Error code: invalidrecord
+* line 1599 of /lib/dml/moodle_database.php: dml_missing_record_exception thrown
+* line 1575 of /lib/dml/moodle_database.php: call to moodle_database->get_record_select()
+* line 32 of /course/delete.php: call to moodle_database->get_record()
+
+[17-Nov-2020 21:22:07 Australia/Sydney] instantiating backup controller 9610d781c37ac0fd790387002e1c6efb
+[17-Nov-2020 21:22:07 Australia/Sydney] setting controller status to 100
+[17-Nov-2020 21:22:07 Australia/Sydney] loading controller plan
+[17-Nov-2020 21:22:08 Australia/Sydney] setting controller status to 300
+[17-Nov-2020 21:22:08 Australia/Sydney] applying plan defaults
+[17-Nov-2020 21:22:08 Australia/Sydney] setting controller status to 400
+[17-Nov-2020 21:22:08 Australia/Sydney] setting file inclusion to 
+[17-Nov-2020 21:22:08 Australia/Sydney] checking plan security
+[17-Nov-2020 21:22:08 Australia/Sydney] setting controller status to 700
+[17-Nov-2020 21:22:08 Australia/Sydney] saving controller to db
+[17-Nov-2020 21:22:08 Australia/Sydney] calculating controller checksum da1810f29c73e0fed26b95f849b44e29
+[17-Nov-2020 21:22:08 Australia/Sydney] loading controller from db
+[17-Nov-2020 21:22:08 Australia/Sydney] setting file inclusion to 1
+[17-Nov-2020 21:22:08 Australia/Sydney] setting controller status to 800
+[17-Nov-2020 21:22:08 Australia/Sydney] saving controller to db
+[17-Nov-2020 21:22:08 Australia/Sydney] calculating controller checksum c2fe1aeedcf4d2d8da4d457e6beed947
+[17-Nov-2020 21:22:08 Australia/Sydney] loading controller from db
+[17-Nov-2020 21:22:11 Australia/Sydney] setting controller status to 1000
+[17-Nov-2020 21:22:11 Australia/Sydney] saving controller to db
+[17-Nov-2020 21:22:34 Australia/Sydney] instantiating backup controller 0d63636c75f7dfb82029e45eef9105f0
+[17-Nov-2020 21:22:34 Australia/Sydney] setting controller status to 100
+[17-Nov-2020 21:22:34 Australia/Sydney] loading controller plan
+[17-Nov-2020 21:22:35 Australia/Sydney] setting controller status to 300
+[17-Nov-2020 21:22:35 Australia/Sydney] applying plan defaults
+[17-Nov-2020 21:22:35 Australia/Sydney] setting controller status to 400
+[17-Nov-2020 21:22:35 Australia/Sydney] setting file inclusion to 
+[17-Nov-2020 21:22:35 Australia/Sydney] checking plan security
+[17-Nov-2020 21:22:35 Australia/Sydney] setting controller status to 700
+[17-Nov-2020 21:22:35 Australia/Sydney] saving controller to db
+[17-Nov-2020 21:22:35 Australia/Sydney] calculating controller checksum dc8bed9dc1d1c4877c8d73c2f4e6177b
+[17-Nov-2020 21:22:35 Australia/Sydney] loading controller from db
+[17-Nov-2020 21:22:35 Australia/Sydney] setting file inclusion to 1
+[17-Nov-2020 21:22:35 Australia/Sydney] setting controller status to 800
+[17-Nov-2020 21:22:35 Australia/Sydney] saving controller to db
+[17-Nov-2020 21:22:35 Australia/Sydney] calculating controller checksum beedb9c8edff86e49c095d2990d065fc
+[17-Nov-2020 21:22:35 Australia/Sydney] loading controller from db
+[17-Nov-2020 21:22:35 Australia/Sydney] setting controller status to 1000
+[17-Nov-2020 21:22:35 Australia/Sydney] saving controller to db
+[17-Nov-2020 21:23:05 Australia/Sydney] instantiating backup controller 7edd609710cdcfbfb754fb1992a85a02
+[17-Nov-2020 21:23:05 Australia/Sydney] setting controller status to 100
+[17-Nov-2020 21:23:05 Australia/Sydney] loading controller plan
+[17-Nov-2020 21:23:05 Australia/Sydney] setting controller status to 300
+[17-Nov-2020 21:23:05 Australia/Sydney] applying plan defaults
+[17-Nov-2020 21:23:05 Australia/Sydney] setting controller status to 400
+[17-Nov-2020 21:23:05 Australia/Sydney] setting file inclusion to 
+[17-Nov-2020 21:23:05 Australia/Sydney] checking plan security
+[17-Nov-2020 21:23:05 Australia/Sydney] setting controller status to 700
+[17-Nov-2020 21:23:05 Australia/Sydney] saving controller to db
+[17-Nov-2020 21:23:05 Australia/Sydney] calculating controller checksum 423f9d0ad0f299f939016bcb126856ba
+[17-Nov-2020 21:23:05 Australia/Sydney] loading controller from db
+[17-Nov-2020 21:23:05 Australia/Sydney] setting file inclusion to 1
+[17-Nov-2020 21:23:05 Australia/Sydney] setting controller status to 800
+[17-Nov-2020 21:23:05 Australia/Sydney] saving controller to db
+[17-Nov-2020 21:23:05 Australia/Sydney] calculating controller checksum a368aebe520efd7bbdfbb762ce060af3
+[17-Nov-2020 21:23:05 Australia/Sydney] loading controller from db
+[17-Nov-2020 21:23:06 Australia/Sydney] setting controller status to 1000
+[17-Nov-2020 21:23:06 Australia/Sydney] saving controller to db
+[17-Nov-2020 21:24:30 Australia/Sydney] instantiating backup controller 8b54f331107aa62e30e1d8459edc441e
+[17-Nov-2020 21:24:30 Australia/Sydney] setting controller status to 100
+[17-Nov-2020 21:24:30 Australia/Sydney] loading controller plan
+[17-Nov-2020 21:24:30 Australia/Sydney] setting controller status to 300
+[17-Nov-2020 21:24:30 Australia/Sydney] applying plan defaults
+[17-Nov-2020 21:24:30 Australia/Sydney] setting controller status to 400
+[17-Nov-2020 21:24:30 Australia/Sydney] setting file inclusion to 
+[17-Nov-2020 21:24:30 Australia/Sydney] checking plan security
+[17-Nov-2020 21:24:30 Australia/Sydney] setting controller status to 700
+[17-Nov-2020 21:24:30 Australia/Sydney] saving controller to db
+[17-Nov-2020 21:24:30 Australia/Sydney] calculating controller checksum 2f144a24aaa2b2e46a1e5b766709d2dc
+[17-Nov-2020 21:24:30 Australia/Sydney] loading controller from db
+[17-Nov-2020 21:24:30 Australia/Sydney] setting file inclusion to 1
+[17-Nov-2020 21:24:30 Australia/Sydney] setting controller status to 800
+[17-Nov-2020 21:24:30 Australia/Sydney] saving controller to db
+[17-Nov-2020 21:24:30 Australia/Sydney] calculating controller checksum 1b81b367c3a31c12f708b01f58a3be27
+[17-Nov-2020 21:24:30 Australia/Sydney] loading controller from db
+[17-Nov-2020 21:24:33 Australia/Sydney] setting controller status to 1000
+[17-Nov-2020 21:24:33 Australia/Sydney] saving controller to db
+[17-Nov-2020 21:24:54 Australia/Sydney] instantiating backup controller fc43682794ef9e229d848159e7ba53c2
+[17-Nov-2020 21:24:54 Australia/Sydney] setting controller status to 100
+[17-Nov-2020 21:24:54 Australia/Sydney] loading controller plan
+[17-Nov-2020 21:24:54 Australia/Sydney] setting controller status to 300
+[17-Nov-2020 21:24:54 Australia/Sydney] applying plan defaults
+[17-Nov-2020 21:24:54 Australia/Sydney] setting controller status to 400
+[17-Nov-2020 21:24:54 Australia/Sydney] setting file inclusion to 
+[17-Nov-2020 21:24:54 Australia/Sydney] checking plan security
+[17-Nov-2020 21:24:54 Australia/Sydney] setting controller status to 700
+[17-Nov-2020 21:24:54 Australia/Sydney] saving controller to db
+[17-Nov-2020 21:24:54 Australia/Sydney] calculating controller checksum 2ba36bd70bbb78d3021ea3d20b01038d
+[17-Nov-2020 21:24:54 Australia/Sydney] loading controller from db
+[17-Nov-2020 21:24:54 Australia/Sydney] setting file inclusion to 1
+[17-Nov-2020 21:24:54 Australia/Sydney] setting controller status to 800
+[17-Nov-2020 21:24:54 Australia/Sydney] saving controller to db
+[17-Nov-2020 21:24:54 Australia/Sydney] calculating controller checksum 625af6d02d55f061657585eabfa0aef0
+[17-Nov-2020 21:24:54 Australia/Sydney] loading controller from db
+[17-Nov-2020 21:24:54 Australia/Sydney] setting controller status to 1000
+[17-Nov-2020 21:24:54 Australia/Sydney] saving controller to db
+[17-Nov-2020 21:28:24 Australia/Sydney] instantiating backup controller 1ff07ce2f0ced114b308d9e43b4cf819
+[17-Nov-2020 21:28:24 Australia/Sydney] setting controller status to 100
+[17-Nov-2020 21:28:24 Australia/Sydney] loading controller plan
+[17-Nov-2020 21:28:24 Australia/Sydney] setting controller status to 300
+[17-Nov-2020 21:28:24 Australia/Sydney] applying plan defaults
+[17-Nov-2020 21:28:24 Australia/Sydney] setting controller status to 400
+[17-Nov-2020 21:28:24 Australia/Sydney] setting file inclusion to 
+[17-Nov-2020 21:28:24 Australia/Sydney] checking plan security
+[17-Nov-2020 21:28:24 Australia/Sydney] setting controller status to 700
+[17-Nov-2020 21:28:24 Australia/Sydney] saving controller to db
+[17-Nov-2020 21:28:24 Australia/Sydney] calculating controller checksum cf734d60617fe22eca36c383061ec768
+[17-Nov-2020 21:28:24 Australia/Sydney] loading controller from db
+[17-Nov-2020 21:28:24 Australia/Sydney] setting file inclusion to 1
+[17-Nov-2020 21:28:24 Australia/Sydney] setting controller status to 800
+[17-Nov-2020 21:28:24 Australia/Sydney] saving controller to db
+[17-Nov-2020 21:28:24 Australia/Sydney] calculating controller checksum 99d07810df3b24db16b06ebeceaefac1
+[17-Nov-2020 21:28:24 Australia/Sydney] loading controller from db
+[17-Nov-2020 21:28:39 Australia/Sydney] setting controller status to 1000
+[17-Nov-2020 21:28:39 Australia/Sydney] saving controller to db
+[13-Dec-2020 17:03:38 Australia/Sydney] Default exception handler: Can't find data record in database table course. Debug: SELECT * FROM {course} WHERE id = ?
+[array (
+  0 => 17,
+)]
+Error code: invalidrecord
+* line 1599 of /lib/dml/moodle_database.php: dml_missing_record_exception thrown
+* line 1575 of /lib/dml/moodle_database.php: call to moodle_database->get_record_select()
+* line 33 of /course/view.php: call to moodle_database->get_record()
+
+[16-Dec-2020 18:37:17 Australia/Sydney] Default exception handler: Can't find data record in database table course. Debug: SELECT * FROM {course} WHERE id = ?
+[array (
+  0 => 11,
+)]
+Error code: invalidrecord
+* line 1599 of /lib/dml/moodle_database.php: dml_missing_record_exception thrown
+* line 1575 of /lib/dml/moodle_database.php: call to moodle_database->get_record_select()
+* line 33 of /course/view.php: call to moodle_database->get_record()
+
+[17-Dec-2020 03:09:45 Australia/Sydney] Default exception handler: Can't find data record in database table course. Debug: SELECT * FROM {course} WHERE id = ?
+[array (
+  0 => 12,
+)]
+Error code: invalidrecord
+* line 1599 of /lib/dml/moodle_database.php: dml_missing_record_exception thrown
+* line 1575 of /lib/dml/moodle_database.php: call to moodle_database->get_record_select()
+* line 33 of /course/view.php: call to moodle_database->get_record()
+
+[18-Dec-2020 00:33:50 Australia/Sydney] Default exception handler: Can't find data record in database table course. Debug: SELECT * FROM {course} WHERE id = ?
+[array (
+  0 => 25,
+)]
+Error code: invalidrecord
+* line 1599 of /lib/dml/moodle_database.php: dml_missing_record_exception thrown
+* line 1575 of /lib/dml/moodle_database.php: call to moodle_database->get_record_select()
+* line 33 of /course/view.php: call to moodle_database->get_record()
+
+[18-Dec-2020 05:33:12 Australia/Sydney] Default exception handler: Can't find data record in database table course. Debug: SELECT * FROM {course} WHERE id = ?
+[array (
+  0 => 20,
+)]
+Error code: invalidrecord
+* line 1599 of /lib/dml/moodle_database.php: dml_missing_record_exception thrown
+* line 1575 of /lib/dml/moodle_database.php: call to moodle_database->get_record_select()
+* line 33 of /course/view.php: call to moodle_database->get_record()
+
+[19-Dec-2020 01:11:05 Australia/Sydney] Default exception handler: Can't find data record in database table course. Debug: SELECT * FROM {course} WHERE id = ?
+[array (
+  0 => 10,
+)]
+Error code: invalidrecord
+* line 1599 of /lib/dml/moodle_database.php: dml_missing_record_exception thrown
+* line 1575 of /lib/dml/moodle_database.php: call to moodle_database->get_record_select()
+* line 33 of /course/view.php: call to moodle_database->get_record()
+
+[20-Dec-2020 02:51:34 Australia/Sydney] Default exception handler: Can't find data record in database table course. Debug: SELECT * FROM {course} WHERE id = ?
+[array (
+  0 => 26,
+)]
+Error code: invalidrecord
+* line 1599 of /lib/dml/moodle_database.php: dml_missing_record_exception thrown
+* line 1575 of /lib/dml/moodle_database.php: call to moodle_database->get_record_select()
+* line 33 of /course/view.php: call to moodle_database->get_record()
+
+[30-Dec-2020 22:39:34 Australia/Sydney] instantiating backup controller e0eb785ee085dfee367425b75043e9f3
+[30-Dec-2020 22:39:34 Australia/Sydney] setting controller status to 100
+[30-Dec-2020 22:39:34 Australia/Sydney] loading controller plan
+[30-Dec-2020 22:39:34 Australia/Sydney] setting controller status to 300
+[30-Dec-2020 22:39:34 Australia/Sydney] applying plan defaults
+[30-Dec-2020 22:39:34 Australia/Sydney] setting controller status to 400
+[30-Dec-2020 22:39:34 Australia/Sydney] setting file inclusion to 
+[30-Dec-2020 22:39:34 Australia/Sydney] checking plan security
+[30-Dec-2020 22:39:34 Australia/Sydney] setting controller status to 700
+[30-Dec-2020 22:39:34 Australia/Sydney] saving controller to db
+[30-Dec-2020 22:39:34 Australia/Sydney] calculating controller checksum 955edd6818a6acdfb65a8af8ab856c85
+[30-Dec-2020 22:39:34 Australia/Sydney] loading controller from db
+[30-Dec-2020 22:39:34 Australia/Sydney] setting file inclusion to 1
+[30-Dec-2020 22:39:34 Australia/Sydney] setting controller status to 800
+[30-Dec-2020 22:39:34 Australia/Sydney] saving controller to db
+[30-Dec-2020 22:39:34 Australia/Sydney] calculating controller checksum e7d93353e058c243b04fcb816c18303d
+[30-Dec-2020 22:39:34 Australia/Sydney] loading controller from db
+[30-Dec-2020 22:39:35 Australia/Sydney] setting controller status to 1000
+[30-Dec-2020 22:39:35 Australia/Sydney] saving controller to db
+[30-Dec-2020 22:41:30 Australia/Sydney] instantiating backup controller 6a3c56744a683fd97a37df187b9bc376
+[30-Dec-2020 22:41:30 Australia/Sydney] setting controller status to 100
+[30-Dec-2020 22:41:30 Australia/Sydney] loading controller plan
+[30-Dec-2020 22:41:30 Australia/Sydney] setting controller status to 300
+[30-Dec-2020 22:41:30 Australia/Sydney] applying plan defaults
+[30-Dec-2020 22:41:30 Australia/Sydney] setting controller status to 400
+[30-Dec-2020 22:41:30 Australia/Sydney] setting file inclusion to 
+[30-Dec-2020 22:41:30 Australia/Sydney] checking plan security
+[30-Dec-2020 22:41:30 Australia/Sydney] setting controller status to 700
+[30-Dec-2020 22:41:30 Australia/Sydney] saving controller to db
+[30-Dec-2020 22:41:30 Australia/Sydney] calculating controller checksum 6607e3abe8bcae6ac10a808a1b7949de
+[30-Dec-2020 22:41:30 Australia/Sydney] loading controller from db
+[30-Dec-2020 22:41:30 Australia/Sydney] setting file inclusion to 1
+[30-Dec-2020 22:41:30 Australia/Sydney] setting controller status to 800
+[30-Dec-2020 22:41:30 Australia/Sydney] saving controller to db
+[30-Dec-2020 22:41:30 Australia/Sydney] calculating controller checksum 37454c486fce9597886890acb4550269
+[30-Dec-2020 22:41:30 Australia/Sydney] loading controller from db
+[30-Dec-2020 22:41:31 Australia/Sydney] setting controller status to 1000
+[30-Dec-2020 22:41:31 Australia/Sydney] saving controller to db

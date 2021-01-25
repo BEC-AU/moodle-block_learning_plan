@@ -1,0 +1,48 @@
+[27-Oct-2020 01:18:11 Australia/Sydney] Default exception handler: A required parameter (id) was missing Debug: 
+Error code: missingparam
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 566 of /lib/moodlelib.php: call to print_error()
+* line 38 of /portfolio/file.php: call to required_param()
+
+[05-Nov-2020 15:53:02 Australia/Sydney] Default exception handler: A required parameter (id) was missing Debug: 
+Error code: missingparam
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 566 of /lib/moodlelib.php: call to print_error()
+* line 38 of /portfolio/file.php: call to required_param()
+
+[09-Nov-2020 08:51:35 Australia/Sydney] Default exception handler: A required parameter (id) was missing Debug: 
+Error code: missingparam
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 566 of /lib/moodlelib.php: call to print_error()
+* line 38 of /portfolio/file.php: call to required_param()
+
+[18-Dec-2020 06:11:31 Australia/Sydney] Default exception handler: A required parameter (id) was missing Debug: 
+Error code: missingparam
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 566 of /lib/moodlelib.php: call to print_error()
+* line 38 of /portfolio/file.php: call to required_param()
+
+[21-Dec-2020 18:41:33 Australia/Sydney] Default exception handler: A required parameter (id) was missing Debug: 
+Error code: missingparam
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 566 of /lib/moodlelib.php: call to print_error()
+* line 38 of /portfolio/file.php: call to required_param()
+
+[25-Dec-2020 11:33:41 Australia/Sydney] Default exception handler: A required parameter (id) was missing Debug: 
+Error code: missingparam
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 566 of /lib/moodlelib.php: call to print_error()
+* line 38 of /portfolio/file.php: call to required_param()
+
+[27-Dec-2020 20:45:42 Australia/Sydney] Default exception handler: A required parameter (id) was missing Debug: 
+Error code: missingparam
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 566 of /lib/moodlelib.php: call to print_error()
+* line 38 of /portfolio/file.php: call to required_param()
+
+[09-Jan-2021 03:18:43 Australia/Sydney] Default exception handler: A required parameter (id) was missing Debug: 
+Error code: missingparam
+* line 498 of /lib/setuplib.php: moodle_exception thrown
+* line 566 of /lib/moodlelib.php: call to print_error()
+* line 38 of /portfolio/file.php: call to required_param()
+

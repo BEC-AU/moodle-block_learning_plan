@@ -1,0 +1,2 @@
+[30-Dec-2020 20:20:13 Australia/Sydney] PHP Warning:  rmdir(/home/ki517166/demodata/cache/cachestore_file/default_application): Directory not empty in /home/ki517166/public_html/demo.lms.net.au/lib/moodlelib.php on line 9813
+[30-Dec-2020 20:20:13 Australia/Sydney] PHP Warning:  rmdir(/home/ki517166/demodata/cache/cachestore_file): Directory not empty in /home/ki517166/public_html/demo.lms.net.au/lib/moodlelib.php on line 9813
